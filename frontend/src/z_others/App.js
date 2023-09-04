@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import { useEffect, useState } from 'react';
 
@@ -16,7 +15,7 @@ function App() {
     // setData(result.message)    
   }
   useEffect(() => {
-    loader()
+    // loader()
     // .then((response) => response.json())
     // .then((response) => setData(response))
   }, []);

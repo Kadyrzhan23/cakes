@@ -1,0 +1,14 @@
+.wrapper{
+    width: 100%;
+    min-height: 436px;
+    border: 1px solid black;
+    
+}
+
+
+@media (min-width: 1950px){
+    .wrapper{
+        width: 1920px;
+        margin: 0 auto;
+    }
+}

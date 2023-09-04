@@ -1,0 +1,220 @@
+.wrapper {
+    width: 1170px;
+    height: 743px;
+    border: 1px solid black;
+}
+
+.desktop{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+    
+}
+
+.top {
+    width: 100%;
+    height: 103px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* border: 1px solid black; */
+    background-color: #ffffff;
+    position: relative;
+    top: -20px;
+    box-shadow: 0 0 10px black;
+}
+
+.top_item {
+    width: 33.333%;
+    height: 70px;
+    /* border: 1px solid rgb(214, 214, 214); */
+    padding: 0 20px;
+    display: flex;
+    column-gap: 10px;
+}
+
+.top_item:first-child {
+    border-right: 1px solid rgb(214, 214, 214);
+}
+
+.top_item:last-child {
+    border-left: 1px solid rgb(214, 214, 214);
+}
+
+.top_item_left {
+    width: 70px;
+    height: 70px;
+    border: 2px solid black;
+    border-radius: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 18px;
+}
+
+.top_item_right {
+    flex-grow: 1;
+    height: 70px;
+    /* border: 1px solid black; */
+    padding: 10px 0;
+
+}
+
+.top_item_title {
+    font-size: 18px;
+    line-height: 18px;
+}
+
+.top_item_text {
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 300;
+}
+
+.centre {
+    width: 100%;
+    height: 374px;
+    display: flex;
+    column-gap: 10px;
+}
+
+.centre_item {
+    width: 50%;
+    height: 100%;
+    /* border: 1px solid black; */
+    background-color: rgb(241, 242, 246);
+    background-repeat: no-repeat;
+    background-size: 447px 100%;
+
+}
+
+.centre_item:first-child {
+    background-image: url(https://cakes.ru/wp-content/themes/cakes/images/landing/category-cakes/svadebnie2.jpg);
+}
+
+.centre_item:last-child {
+    background-image: url(https://cakes.ru/wp-content/themes/cakes/images/landing/category-cakes/detskie2.jpg);
+}
+
+.bottom {
+    width: 100%;
+    height: 247px;
+    display: flex;
+    justify-content: space-between;
+    column-gap: 10px;
+}
+
+.bottom_item {
+    width: 33.333%;
+    height: 100%;
+    background-color: rgb(241, 242, 246);
+    background-repeat: no-repeat;
+    background-size: 295px 100%;
+
+}
+
+.bottom_item:first-child {
+    background-image: url(https://cakes.ru/wp-content/themes/cakes/images/landing/category-cakes/den-rozdeniya2.jpg);
+}
+
+.bottom_item:nth-child(2) {
+    background-image: url(https://cakes.ru/wp-content/themes/cakes/images/landing/category-cakes/prazdnichnie-torty2.jpg);
+}
+
+.bottom_item:last-child {
+    background-image: url(https://cakes.ru/wp-content/themes/cakes/images/landing/category-cakes/yubiley2.jpg);
+}
+
+
+
+@media (max-width: 1280px) {
+    .wrapper {
+        width: 906px;
+    }
+
+
+}
+
+@media (max-width:960px) {
+    .wrapper {
+        width: 570px;
+    }
+
+    .top {
+        height: 96px;
+        padding:  0;
+    }
+
+    .top_item_left {
+        width: 52px;
+        height: 48px;
+        position: relative;
+        top: 8px;
+    }
+
+    .top_item_title {
+        font-size: 12px;
+    }
+
+    .top_item_text {
+        font-size: 10px;
+        line-height: 12px;
+    }
+
+    .centre_item:first-child{
+        width: 100%;
+        background-size: 568px 100%;
+    }
+
+    .centre_item:last-child{
+        display: none;
+    }
+
+    .bottom_item{
+        width: 50%;
+        background-size: 279px 100%;
+    }
+
+    .bottom_item:last-child{
+        display: none;
+    }
+}
+
+@media (max-width: 600px){
+    .wrapper{
+        margin-top: 10px;
+    }
+    .top{
+        height: 288px;
+        flex-direction: column;
+        top: 0px;
+        box-shadow: none;
+    }
+
+    .top_item{
+        width: 100%;
+        height: 96px;
+        justify-content: space-around; 
+        align-items: center;
+        border: 1px solid black;
+    }
+    
+    .top_item_left{
+        top: 0px;
+        justify-self: center;
+    }
+
+    .top_item:first-child{
+        border-right: none;
+        border-bottom: 1px solid rgb(214, 214, 214);
+    }
+
+    .top_item:last-child{
+        border-left: none;
+        border-top: 1px solid rgb(214, 214, 214);
+    }
+}

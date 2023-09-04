@@ -4,27 +4,27 @@ const PORT = process.env.PORT || 3200;
 const HOST = process.env.HOST || 'localhost';
 
 const app = express();
-const urlencodedParser = express.urlencoded({extended: false});
+const urlencodedParser = express.urlencoded({ extended: false });
 
 app.listen(PORT, () => {
     console.log(`http://${HOST}:${PORT}`);
 });
 
 app.get('/api', (req, res) => {
-    console.log(req.method)
-    // console.log(req.body)
-    // if(req.method === 'GET'){
-    //     let urlReques = url.parse(req.url,true)
-    //     console.log(urlReques.query)
-    // }else{
-    //     console.log(req.method)
-    // }
-    res.json({
-        message: "Hello from backend GET"
-    })
+    let urlReques = url.parse(req.url, true)
+    console.log(urlReques.query)
+    if(urlReques.query.query === '7'){
+        res.json({
+            message: "Top imagees --- ok"
+        })
+    }else{
+        res.json({
+            message: "Not Found"
+        })
+    }
 })
-app.post('/api',urlencodedParser, (req, res) => {
-    if(!req.body) return res.sendStatus(400);
+app.post('/api', urlencodedParser, (req, res) => {
+    if (!req.body) return res.sendStatus(400);
     console.log(req.body);
     res.json(req.body);
     // console.log(req.method)
@@ -33,7 +33,7 @@ app.post('/api',urlencodedParser, (req, res) => {
     // res.json({
     //     message: "Hello from backend POST"
     // })
-})    
+})
 
 
 // app.update('/api',urlencodedParser, (req, res) => {

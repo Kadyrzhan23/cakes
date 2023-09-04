@@ -1,0 +1,102 @@
+.wrapper {
+    width: 100%;
+    height: 596px;
+    /* border: 1px solid black; */
+}
+
+.desktop_ultrawide {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    column-gap: 25px;
+}
+
+.desktop {
+    width: 100%;
+    height: 100%;
+    display: none;
+    background-image: url(https://cakes.ru/wp-content/themes/cakes/images/page-main/top-fon.jpg);
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    background-size: auto 395px;
+    border: 1px solid black;
+}
+
+.left {
+    width: 50%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    row-gap: 25px;
+}
+
+.left_top {
+    width: 100%;
+    height: 50%;
+    background-color: #F0F1F5;
+    background-image: url(https://cakes.ru/wp-content/themes/cakes/images/page-main/top-video.jpg);
+    /* background-position: right; */
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.left_bottom {
+    width: 100%;
+    height: 50%;
+    background-color: #F0F1F5;
+    background-image: url(https://cakes.ru/wp-content/themes/cakes/images/page-main/top-selection.jpg);
+}
+
+.right {
+    width: 50%;
+    height: 100%;
+    background-color: #DCC9C5;
+    background-image: url(https://cakes.ru/wp-content/themes/cakes/images/page-main/top-tasty.jpg);
+    background-position: center;
+
+}
+
+
+@media (max-width: 1260px) {
+    .wrapper {
+        height: 395px;
+    }
+
+    .desktop {
+        display: block;
+    }
+
+    .desktop_ultrawide {
+        display: none;
+    }
+}
+
+@media (max-width:960px) {
+    .wrapper {
+        height: 240px;
+        display: flex;
+        justify-content: center;
+    }
+    .desktop {
+        background-size: 100% 240px;
+    }
+}
+
+@media (max-width:700px) {
+    .wrapper {
+        height: 210px;
+    }
+    .desktop {
+        background-size: 700px 210px;
+    }
+}
+
+@media (max-width:600px) {
+    .wrapper {
+        height: 210px;
+    }
+    .desktop {
+        background-size:600px 220px;
+    }
+}
