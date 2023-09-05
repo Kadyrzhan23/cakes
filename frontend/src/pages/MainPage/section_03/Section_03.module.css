@@ -1,0 +1,73 @@
+.wrapper {
+    width: 100%;
+    height: 396px;
+    /* padding: 38px 0 0 0; */
+    background-image: url('../../../.././public/pages/main/section-03/fon.jpg');
+    background-color: rgb(243, 243, 243);
+    background-position-x: center;
+    background-position-y: top;
+    background-size: initial;
+    display: flex;
+    justify-content: center;
+}
+
+.body {
+    width: 620px;
+    height: 100%;
+    /* border: 1px solid black; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding: 38px 0 100px 0;
+}
+
+.top {
+    width: 100px;
+    height: 20px;
+    font-size: 14px;
+    background-color: #FFFFFF;
+    text-align: center;
+    font-weight: 700;
+}
+
+.center{
+    width: 100%;
+    height: 96px;
+    font-size: 48px;
+    text-align: center;
+}
+
+.bottom{
+    width: 196px;
+    height: 36px;
+    background-color: #000;
+    font-size: 12px;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 700;
+    position: relative;
+    top: 20px;
+}
+
+.bottom:hover{
+    text-decoration: underline;
+}
+
+@media (max-width: 620px) {
+    .wrapper{
+        height: 280px;
+        background-size: 1020px 100%;
+    }
+    .top{
+        /* display: ; */
+    }
+
+    .center{
+        font-size: 24px;
+        position: relative;
+        top: 10px;
+    }
+}

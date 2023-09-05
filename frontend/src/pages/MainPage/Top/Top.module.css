@@ -15,11 +15,13 @@
     width: 100%;
     height: 100%;
     display: none;
-    background-image: url(https://cakes.ru/wp-content/themes/cakes/images/page-main/top-fon.jpg);
+    background-image: url('../../../.././public/pages/main/top/top-fon.jpg');
     background-position: 0 0;
     background-repeat: no-repeat;
     background-size: auto 395px;
-    border: 1px solid black;
+    /* background: rgb(231,214,222);
+background: linear-gradient(81deg, rgba(231,214,222,1) 48%, rgba(221,199,212,1) 75%); */
+    /* border: 1px solid black; */
 }
 
 .left {
@@ -34,7 +36,7 @@
     width: 100%;
     height: 50%;
     background-color: #F0F1F5;
-    background-image: url(https://cakes.ru/wp-content/themes/cakes/images/page-main/top-video.jpg);
+    background-image: url('../../../.././public/pages/main/top/top-video.jpeg');
     /* background-position: right; */
     background-position: 0 0;
     background-repeat: no-repeat;
@@ -45,14 +47,14 @@
     width: 100%;
     height: 50%;
     background-color: #F0F1F5;
-    background-image: url(https://cakes.ru/wp-content/themes/cakes/images/page-main/top-selection.jpg);
+    background-image: url('../../../.././public/pages/main/top/top-selection.jpg');
 }
 
 .right {
     width: 50%;
     height: 100%;
     background-color: #DCC9C5;
-    background-image: url(https://cakes.ru/wp-content/themes/cakes/images/page-main/top-tasty.jpg);
+    background-image: url('../../../.././public/pages//main/top/top-tasty.jpg');
     background-position: center;
 
 }
@@ -98,5 +100,12 @@
     }
     .desktop {
         background-size:600px 220px;
+    }
+}
+
+@media (max-width:460px) {
+    .desktop {
+        background-size:420px 210px;
+        background-position: 0 100%;
     }
 }

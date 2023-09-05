@@ -1,11 +1,11 @@
 .wrapper{
     position: absolute !important;
     width: 320px;
-    height: 1983px;
+    height: 940px;
     background-color: #FFFFFF;
     z-index: 9;
     top: -3000px;
-    left: 100px;
+    left: 90px;
     transition: all 500ms ease 0s;
     display: flex;
     flex-direction: column;
@@ -56,3 +56,14 @@
     height: 60px;
 }
 
+@media (max-width:960px){
+    .wrapper{
+        left: 0px;
+    }
+}
+
+@media (max-width: 768px){
+    .burger_active{
+        top: 79px;
+    }
+}

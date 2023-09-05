@@ -4,16 +4,21 @@ import Navbar from './Navbar/Navbar';
 import { useState } from 'react';
 import BurgerMenu from './BurgerMenu/BurgerMenu';
 const Header = () => {
+    const body = document.querySelector('body');
     const [burgerBool, setBurgerBool] = useState(false)
+    const [height, setHeight] = useState(body.offsetHeight)
+    document.addEventListener('readystatechange', () => setHeight(body.offsetHeight))
     function burgerToggle() {
         setBurgerBool(!burgerBool)
     }
     return (
         <div className={styles.wrapper}>
-            <BurgerMenu toggle={burgerBool} setToggle={setBurgerBool}/>
-            <div 
-            className={`${burgerBool ? styles.burger_is_active_wrapper : ''}`}
-            onClick={()=> burgerToggle()}>
+            <BurgerMenu toggle={burgerBool} setToggle={setBurgerBool} />
+            <div
+                className={`${burgerBool ? styles.burger_is_active_wrapper : ''}`}
+                onClick={() => burgerToggle()}
+                style={{height:burgerBool ? `${height-80}px` : 0}}
+                >
 
             </div>
             <div className={styles.top}>
@@ -24,8 +29,10 @@ const Header = () => {
             <div className={styles.centre}>
                 <div
                     className={styles.centre_left}
-                    onClick={() => burgerToggle()}>  {/* кнопка бургера */}
-                    <div className={styles.burger_btn_wrapper}>
+                >  {/* кнопка бургера */}
+                    <div
+                        className={styles.burger_btn_wrapper}
+                        onClick={() => burgerToggle()}>
                         <div className={`${styles.burger_btn_item} ${burgerBool ? styles.burger_active : ''}`}></div>
                         <div className={`${styles.burger_btn_item} ${burgerBool ? styles.burger_active : ''}`}></div>
                         <div className={`${styles.burger_btn_item} ${burgerBool ? styles.burger_active : ''}`}></div>
@@ -44,9 +51,9 @@ const Header = () => {
                         </a>
                         <div className={styles.contacts_right}>
                             <p className={styles.contacts_title}>
-                                с 10.00 до 20.00 без выходных
+                                с 08.00 до 22.00 без выходных
                             </p>
-                            <a className={styles.contacts_tel} href="tel:+74999554899"> +7 (499) 955-48-99</a>
+                            <a className={styles.contacts_tel} href="tel:+74999554899"> +998 71 200-41-14</a>
                         </div>
                     </div>
                 </div>

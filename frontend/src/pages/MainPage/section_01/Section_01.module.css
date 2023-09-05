@@ -1,7 +1,7 @@
 .wrapper {
     width: 1170px;
     height: 743px;
-    border: 1px solid black;
+    /* border: 1px solid black; */
 }
 
 .desktop{
@@ -31,6 +31,8 @@
     height: 70px;
     /* border: 1px solid rgb(214, 214, 214); */
     padding: 0 20px;
+}
+.top_item_body{
     display: flex;
     column-gap: 10px;
 }
@@ -93,11 +95,11 @@
 }
 
 .centre_item:first-child {
-    background-image: url(https://cakes.ru/wp-content/themes/cakes/images/landing/category-cakes/svadebnie2.jpg);
+    background-image: url('../../../.././public/pages/main/section-1/svadebnie2.jpg');
 }
 
 .centre_item:last-child {
-    background-image: url(https://cakes.ru/wp-content/themes/cakes/images/landing/category-cakes/detskie2.jpg);
+    background-image: url('../../../.././public/pages/main/section-1/detskie2.jpg');
 }
 
 .bottom {
@@ -118,15 +120,15 @@
 }
 
 .bottom_item:first-child {
-    background-image: url(https://cakes.ru/wp-content/themes/cakes/images/landing/category-cakes/den-rozdeniya2.jpg);
+    background-image: url('../../../.././public/pages/main/section-1/den-rozdeniya2.jpg');
 }
 
 .bottom_item:nth-child(2) {
-    background-image: url(https://cakes.ru/wp-content/themes/cakes/images/landing/category-cakes/prazdnichnie-torty2.jpg);
+    background-image: url('../../../.././public/pages/main/section-1/prazdnichnie-torty2.jpg');
 }
 
 .bottom_item:last-child {
-    background-image: url(https://cakes.ru/wp-content/themes/cakes/images/landing/category-cakes/yubiley2.jpg);
+    background-image: url('../../../.././public/pages/main/section-1/yubiley2.jpg');
 }
 
 
@@ -186,26 +188,46 @@
 
 @media (max-width: 600px){
     .wrapper{
+        width: 100%;
+        height: 1200px;
         margin-top: 10px;
+        padding: 0 20px;
+        margin: 20px 0 10px 0;
     }
     .top{
         height: 288px;
         flex-direction: column;
         top: 0px;
-        box-shadow: none;
+        /* box-shadow: none; */
+        box-sizing: border-box;
     }
 
     .top_item{
         width: 100%;
         height: 96px;
-        justify-content: space-around; 
+        justify-content: center; 
         align-items: center;
-        border: 1px solid black;
+        /* border: 1px solid black; */
+        display: flex;
+    }
+    
+    .top_item_body{
+        width: 445px;
     }
     
     .top_item_left{
+        width: 70px;
+        height: 70px;
         top: 0px;
         justify-self: center;
+    }
+
+    .top_item_title{
+        font-size: 16px;
+    }
+
+    .top_item_text{
+        font-size: 14px;
     }
 
     .top_item:first-child{
@@ -217,4 +239,51 @@
         border-left: none;
         border-top: 1px solid rgb(214, 214, 214);
     }
+
+    .centre{
+        margin-top: 10px;
+        height: 342px;
+        flex-direction: column;
+        row-gap: 10px;
+        /* padding: 0 20px; */
+    }
+
+    .centre_item{
+        height: 166px;
+    }
+
+    .centre_item:first-child{
+        background-size: auto 100%;
+        background-position: 95% 50% ;
+    }
+
+    .centre_item:last-child{
+        width: 100%;
+        display: block;
+        background-size: auto 100%;
+        background-position: 100% 50% ;
+    }
+
+    .bottom{
+        flex-direction: column;
+        height: 518px;
+        row-gap: 10px;
+        /* padding: 0 20px; */
+    }
+
+    .bottom_item{
+        height: 166px;
+        width: 100%;
+        background-size: auto 100%;
+        background-position: 100% 50% ;
+    }
+
+    .bottom_item:first-child{
+        background-position: 93% 50% ;
+    }
+
+    .bottom_item:last-child{
+        display: block;
+    }
+
 }
