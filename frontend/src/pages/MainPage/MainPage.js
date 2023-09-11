@@ -14,7 +14,7 @@ const MainPage = () => {
             <Section03/>
             <Section04/>
             <p>
-                new
+                Hello world
             </p>
         </div>
     );
