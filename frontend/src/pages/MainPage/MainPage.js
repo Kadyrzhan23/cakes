@@ -13,6 +13,9 @@ const MainPage = () => {
             <Section02/>
             <Section03/>
             <Section04/>
+            <p>
+                new
+            </p>
         </div>
     );
 }
