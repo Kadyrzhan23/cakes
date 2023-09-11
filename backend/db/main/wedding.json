@@ -1,10 +1,10 @@
 {
     "data":[
-        {"title":"ОДНУЪЯРУСНЫЕ","img":"/blok-perelinkovki-odnojarusnye-svadebnye-torty.jpg.webp"},
-        {"title":"ДВУХЪЯРУСНЫЕ","img":"/torty-muzhu.jpg"},
-        {"title":"ТРЕХЪЯРУСНЫЕ","img":"/trehjarusnye.jpeg"},
-        {"title":"С ЯГОДАМИ","img":"/s-jagodami.jpeg"},
-        {"title":"С ЦВЕТАМИ","img":"/s-cvetami.jpeg"},
-        {"title":"НА ГОДОВЩИНУ","img":"/na-godovshhinu.jpg"}
+        {"title":"ОДНУЪЯРУСНЫЕ","img":"wedding/blok-perelinkovki-odnojarusnye-svadebnye-torty.jpg.webp"},
+        {"title":"ДВУХЪЯРУСНЫЕ","img":"wedding/torty-muzhu.jpg"},
+        {"title":"ТРЕХЪЯРУСНЫЕ","img":"wedding/trehjarusnye.jpeg"},
+        {"title":"С ЯГОДАМИ","img":"wedding/s-jagodami.jpeg"},
+        {"title":"С ЦВЕТАМИ","img":"wedding/s-cvetami.jpeg"},
+        {"title":"НА ГОДОВЩИНУ","img":"wedding/na-godovshhinu.jpg"}
     ]
 }

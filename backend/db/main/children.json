@@ -1,0 +1,10 @@
+{
+    "data":[
+        {"title":"ДЛЯ МАЛЬЧИКА","img":"children/blok-perelinkovki-detskie-torty-malchikam.jpg"},
+        {"title":"ДЛЯ ДЕВОЧКИ","img":"children/torty-devochke.jpg"},
+        {"title":"ПО ВОЗРАСТУ","img":"children/blok-perelinkovki-torty-po-vozrastu.jpg"},
+        {"title":"НА ВЫПИСКУ","img":"children/blok-perelinkovki-torty-na-vypisku-devochkam.jpg"},
+        {"title":"НА ГОДИК","img":"children/blok-perelinkovki-godik.jpg"},
+        {"title":"ЕДИНОРОГИ","img":"children/edinorog.jpg"}
+    ]
+}

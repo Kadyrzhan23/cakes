@@ -17,8 +17,13 @@ app.get('/api', (req, res) => {
     console.log(urlReques.query)
     if(urlReques.query.page === 'main'){
         if(urlReques.query.query === 'cards'){
-            const {data} = JSON.parse(fs.readFileSync('./db/main/wedding.json','utf8'))
-            res.json(data)
+            t1(urlReques.query.collection,res)
+            // const {data} = JSON.parse(fs.readFileSync('./db/main/children.json','utf8'))
+            // const {data} = JSON.parse(fs.readFileSync(`./db/main/${urlReques.query.collection}.json`,'utf8'))
+            // res.json(data)
+            // let result = Object.values(JSON.parse(data))
+            // res.json(result[0])
+            // console.log('work')
         }else{
             res.json({
                 message: "Top imagees --- ok"
@@ -31,3 +36,8 @@ app.get('/api', (req, res) => {
     }
 })
 
+
+function t1(fileName,res){
+    const {data} = JSON.parse(fs.readFileSync(`./db/main/${fileName}.json`,'utf8'))
+    res.json(data)
+}
