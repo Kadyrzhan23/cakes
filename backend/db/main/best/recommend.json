@@ -1,0 +1,16 @@
+{
+    "data":[
+        {"id":1,"title":"Голубой бенто торт с аистом и надписью","img":"recommend/goluboi-bento-tort-s-aistom-i-nadpisiu.jpg","price":1300},
+        {"id":2,"title":"Бенто торт с собачкой корги","img":"recommend/bento-tort-s-sobachkoi-korgi.jpg","price":1250},
+        {"id":3,"title":"Торт бенто мужчине","img":"recommend/tort-bento-muzhchine.jpg","price":1260},
+        {"id":4,"title":"Бенто торт с котятами","img":"recommend/bento-tort-s-kotiatami.jpg","price":1330},
+        {"id":5,"title":"Бенто тортик с Днём Рождения","img":"recommend/bento-tort-s-konfetti-i-risunkom.jpg","price":1390},
+        {"id":6,"title":"Бенто торт с цветочками и надписью","img":"recommend/bento-tort-s-tsvetochkami-i-nadpisiu.jpg","price":1350},
+        {"id":7,"title":"Бенто торт для подружки с надписью","img":"recommend/bento-tort-dlia-podruzhki-s-nadpisiu.jpg","price":1360},
+        {"id":8,"title":"Бенто торт с красными сердечками и надписью","img":"recommend/bento-tort-s-krasnymi-serdechkami-i-nadpisiu.jpg","price":1210},
+        {"id":9,"title":"Торт бенто весенний с цветочками и надписью","img":"recommend/tort-bento-vesennii-s-tsvetochkami-i-nadpisiu.jpg","price":1290},
+        {"id":10,"title":"Бенто-тортик с календарём на День Рождения","img":"recommend/tort-bento-v-fioletovom-tsvete-s-kalendarem-i-nadpisiu.jpg","price":1370},
+        {"id":11,"title":"Бенто торт с котиком","img":"recommend/bento-tort-s-kotikom.jpg","price":1300},
+        {"id":12,"title":"Торт бенто с рисунком девушки и поздравительной надписью","img":"recommend/tort-bento-s-risunkom-devushki-i-pozdravitelnoi-nadpisiu.jpg","price":1290}
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "data":[
+        {"title":"МУЖУ","img":"best/torty-muzhu.jpg","query-path":"to-husband"},
+        {"title":"ДЛЯ МАМЫ","img":"best/torty-mame.jpg","query-path":"for-mom"},
+        {"title":"С ЯГОДАМИ И ФРУКТАМИ","img":"best/torty-s-jagodami.jpg","query-path":"with-berries-and-fruites"},
+        {"title":"ФУТБОЛНЫЕ","img":"best/tort-futbol-9.jpg","query-path":"football"},
+        {"title":"ЭСТЕТИЧНЫЕ","img":"best/estetichnyie-torty-oblojka.jpeg","query-path":"easthetic"},
+        {"title":"НА ЮБИЛЕЙ","img":"best/torty-na-jubilej.jpg","query-path":"for-anniversary"}
+    ]
+}

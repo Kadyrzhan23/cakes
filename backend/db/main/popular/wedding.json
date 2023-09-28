@@ -1,0 +1,10 @@
+{
+    "data":[
+        {"title":"ОДНУЪЯРУСНЫЕ","img":"wedding/blok-perelinkovki-odnojarusnye-svadebnye-torty.jpg.webp","query-path":"single-tier"},
+        {"title":"ДВУХЪЯРУСНЫЕ","img":"wedding/torty-muzhu.jpg","query-path":"two-tier"},
+        {"title":"ТРЕХЪЯРУСНЫЕ","img":"wedding/trehjarusnye.jpeg","query-path":"three-tier"},
+        {"title":"С ЯГОДАМИ","img":"wedding/s-jagodami.jpeg","query-path":"with-berries"},
+        {"title":"С ЦВЕТАМИ","img":"wedding/s-cvetami.jpeg","query-path":"with-flowers"},
+        {"title":"НА ГОДОВЩИНУ","img":"wedding/na-godovshhinu.jpg","query-path":"for-annyversary"}
+    ]
+}

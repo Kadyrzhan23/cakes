@@ -1,7 +1,8 @@
 import React from 'react';
 import styles from './Section_03.module.css'
-import { NavLink } from 'react-router-dom'
+import { NavLink, useNavigate } from 'react-router-dom'
 const Section03 = () => {
+    const navigate = useNavigate()
     return (
         <div className={styles.wrapper}>
             <div className={styles.body}>
@@ -12,7 +13,9 @@ const Section03 = () => {
                     Попробуй торт <br /> перед заказом бесплатно
                 </div>
                 <NavLink to="#">
-                    <div className={styles.bottom}>
+                    <div 
+                    onClick={()=> navigate('/tasting')}
+                    className={styles.bottom}>
                         ХОЧУ НА ДЕГУСТАЦИЮ
                     </div>
                 </NavLink>

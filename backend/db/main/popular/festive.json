@@ -1,0 +1,10 @@
+{
+    "data":[
+        {"title":"НОВЫЙ ГОД","img":"festive/torty-na-novyj-god.jpg","query-path":"new-year"},
+        {"title":"ВЫПУСКНОЙ","img":"festive/torty-na-vypusknoj.jpg","query-path":"grandution"},
+        {"title":"ХЕЛЛОУИН","img":"festive/torty-na-hjelluin.jpg","query-path":"hellowen"},
+        {"title":"ПОСЛЕДНИЙ ЗВОНОК","img":"festive/torty-na-poslednij-zvonok.jpg","query-path":"last-call"},
+        {"title":"8 МАРТА","img":"festive/torty-8-marta.jpg","query-path":"eight-march"},
+        {"title":"1 СЕНТЯБРЯ","img":"festive/torty-1-sentjabrja.jpg","query-path":"first-of-september"}
+    ]
+}

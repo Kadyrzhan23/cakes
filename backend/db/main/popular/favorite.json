@@ -1,0 +1,10 @@
+{
+    "data":[
+        {"title":"БЕНТО","img":"favorite/blok-perelinkovki-bento-torty.jpeg","query-path":"bento"},
+        {"title":"НА ДЕНЬ РОЖДЕНИЕ","img":"favorite/torty-na-den-rozhdenija.jpg","query-path":"birthday"},
+        {"title":"НА РОЖДЕНИЕ РЕБЁНКА","img":"favorite/torty-na-rozhdenie.jpg","query-path":"birthday-of-child"},
+        {"title":"С ЯГОДАМИ И ФРУКТАМИ","img":"favorite/torty-s-jagodami.jpg","query-path":"with-barries-and-fruites"},
+        {"title":"ПАПЕ","img":"favorite/torty-pape.jpg","query-path":"for-dad"},
+        {"title":"ДЛЯ МАМЫ","img":"favorite/torty-mame.jpg","query-path":"for-mom"}
+    ]
+}

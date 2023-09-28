@@ -1,6 +1,8 @@
 import React from 'react';
 import styles from './Section_01.module.css'
+import { useNavigate } from 'react-router-dom';
 const Section01 = () => {
+    const navigate = useNavigate()
     return (
         <div className={styles.wrapper}>
             <div className={styles.desktop}>
@@ -56,13 +58,44 @@ const Section01 = () => {
                     </div>
                 </div>
                 <div className={styles.centre}>
-                    <div className={styles.centre_item}></div>
-                    <div className={styles.centre_item}></div>
+                    <div className={styles.centre_item}>
+                        <p
+                            className={styles.title}
+                            onClick={() => navigate('/wedding')}
+                        >
+                            Свадебные торты
+                        </p>
+                    </div>
+                    <div className={styles.centre_item}>
+                        <p
+                            className={styles.title}
+                            onClick={() => navigate('/children')}>
+                            Детские торты
+                        </p>
+                    </div>
                 </div>
                 <div className={styles.bottom}>
-                    <div className={styles.bottom_item}></div>
-                    <div className={styles.bottom_item}></div>
-                    <div className={styles.bottom_item}></div>
+                    <div className={styles.bottom_item}>
+                        <p
+                            className={styles.title}
+                            onClick={() => navigate('/birthday')}>
+                            На день рождения
+                        </p>
+                    </div>
+                    <div className={styles.bottom_item}>
+                        <p
+                            className={styles.title}
+                            onClick={() => navigate('/festive')}>
+                            Праздничные
+                        </p>
+                    </div>
+                    <div className={styles.bottom_item}>
+                        <p
+                            className={styles.title}
+                            onClick={() => navigate('/annivarsary')}>
+                            На юбилей
+                        </p>
+                    </div>
                 </div>
             </div>
         </div>

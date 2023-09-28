@@ -6,6 +6,7 @@ import Section02 from './section_02/Section_02';
 import Section03 from './section_03/Section_03';
 import Section04 from './section_04/Section_04';
 import Section05 from './section_05/Section_05';
+import Section06 from './section-06/section_06';
 const MainPage = () => {
     return (
         <div className={styles.wrapper}>
@@ -15,6 +16,7 @@ const MainPage = () => {
             <Section03/>
             <Section04/>
             <Section05/>
+            <Section06/>
         </div>
     );
 }

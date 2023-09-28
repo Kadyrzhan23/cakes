@@ -94,6 +94,29 @@
 
 }
 
+.centre_item .title{
+    font-size: 16px;
+    font-weight: 800;
+    margin: 20px 0 0 20px;
+    color: #424242;
+}
+
+.centre_item:hover{
+    cursor: pointer;
+}
+
+.bottom_item:hover{
+    cursor: pointer;
+}
+
+.bottom_item .title{
+    font-size: 16px;
+    font-weight: 800;
+    margin: 20px 0 0 20px;
+    color: #424242;
+
+}
+
 .centre_item:first-child {
     background-image: url('../../../.././public/pages/main/section-1/svadebnie2.jpg');
 }
