@@ -1,16 +1,16 @@
 {
     "data":[
-        {"id":1,"title":"Эстетичный торт из мастики с цветком","img":"news/estetichnyi-tort-iz-mastiki-s-tsvetkom.jpg","price":1400},
-        {"id":2,"title":"Эстетичный торт с подтеками из карамели","img":"news/estetichnyi-tort-s-podtekami-iz-karameli.jpg","price":1330},
-        {"id":3,"title":"Эстетичный торт с долькой грейпфрута и цветами","img":"news/estetichnyi-tort-s-dolkoi-greipfruta-i-tsvetami.jpg","price":1350},
-        {"id":4,"title":"Ярко-оранжевый эстетичный торт","img":"news/iarko-oranzhevyi-estetichnyi-tort.jpg","price":1280},
-        {"id":5,"title":"Яркий эстетичный торт с долькой апельсина","img":"news/iarkii-estetichnyi-tort-s-dolkoi-apelsina.jpg","price":1250},
-        {"id":6,"title":"Двухъярусный торт с ананасом","img":"news/dvukhieiarusnyi-tort-s-ananasom.jpeg","price":1360},
-        {"id":7,"title":"Торт с ананасом и мороженым","img":"news/tort-s-ananasom-i-morozhenym.jpeg","price":1280},
-        {"id":8,"title":"Невероятный торт с нежными тюльпанами","img":"news/neveroiatnyi-tort-s-nezhnymi-tiulpanami.jpeg","price":1350},
-        {"id":9,"title":"Голубой торт с живыми тюльпанами","img":"news/goluboi-tort-s-zhivymi-tiulpanami.jpeg","price":1260},
-        {"id":10,"title":"Торт клумба с тюльпанами","img":"news/tort-klumba-s-tiulpanami.jpeg","price":1350},
-        {"id":11,"title":"Торт в стиле сериала The last of us","img":"news/tort-v-stile-seriala-the-last-of-us.jpg","price":1300},
-        {"id":12,"title":"Торт Одни из нас","img":"news/tort-odni-iz-nas.jpg","price":1360}
+        {"id":"dmbn1","title":"Эстетичный торт из мастики с цветком","img":"news/estetichnyi-tort-iz-mastiki-s-tsvetkom.jpg","price":1400},
+        {"id":"dmbn2","title":"Эстетичный торт с подтеками из карамели","img":"news/estetichnyi-tort-s-podtekami-iz-karameli.jpg","price":1330},
+        {"id":"dmbn3","title":"Эстетичный торт с долькой грейпфрута и цветами","img":"news/estetichnyi-tort-s-dolkoi-greipfruta-i-tsvetami.jpg","price":1350},
+        {"id":"dmbn4","title":"Ярко-оранжевый эстетичный торт","img":"news/iarko-oranzhevyi-estetichnyi-tort.jpg","price":1280},
+        {"id":"dmbn5","title":"Яркий эстетичный торт с долькой апельсина","img":"news/iarkii-estetichnyi-tort-s-dolkoi-apelsina.jpg","price":1250},
+        {"id":"dmbn6","title":"Двухъярусный торт с ананасом","img":"news/dvukhieiarusnyi-tort-s-ananasom.jpeg","price":1360},
+        {"id":"dmbn7","title":"Торт с ананасом и мороженым","img":"news/tort-s-ananasom-i-morozhenym.jpeg","price":1280},
+        {"id":"dmbn8","title":"Невероятный торт с нежными тюльпанами","img":"news/neveroiatnyi-tort-s-nezhnymi-tiulpanami.jpeg","price":1350},
+        {"id":"dmbn9","title":"Голубой торт с живыми тюльпанами","img":"news/goluboi-tort-s-zhivymi-tiulpanami.jpeg","price":1260},
+        {"id":"dmbn10","title":"Торт клумба с тюльпанами","img":"news/tort-klumba-s-tiulpanami.jpeg","price":1350},
+        {"id":"dmbn11","title":"Торт в стиле сериала The last of us","img":"news/tort-v-stile-seriala-the-last-of-us.jpg","price":1300},
+        {"id":"dmbn12","title":"Торт Одни из нас","img":"news/tort-odni-iz-nas.jpg","price":1360}
     ]
 }
