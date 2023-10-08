@@ -14,7 +14,7 @@ import Cake from "../pages/Cake/Cake";
 import Video from "../pages/Video/Video";
 import Podborki from "../pages/Podborki/Podborki";
 import Sale from "../pages/Sale/Sale";
-import Tasting from "../pages/MainPage/Tasting/Tasting";
+import Tasting from "../pages/Tasting/Tasting";
 import Category from "../pages/Category/Category";
 export default createBrowserRouter(createRoutesFromElements(
     <>

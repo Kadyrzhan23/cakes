@@ -11,6 +11,7 @@ const Layout = () => {
     const dispatch = useDispatch()
     useEffect(() => {
         dispatch(getDataFromLocalStorage())
+        
     }, []);
     return (
         <div >

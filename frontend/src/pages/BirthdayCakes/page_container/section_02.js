@@ -1,9 +1,9 @@
 import React, { useState, useMemo } from 'react';
-import { useGetPageBirthdayQuery } from '../../../store/cakesApi';
+import { useGetPageBirthdayQuery } from '../../store/cakesApi';
 import styles from './Section_02.module.css'
-import Card from '../../../components/Card/Card'
+import Card from '../Card/Card'
 import { useDispatch, useSelector } from 'react-redux';
-import { addToFavorite } from '../../../store/favoriteSlice';
+import { addToFavorite } from '../../store/favoriteSlice';
 const Section02 = () => {
     const favorites = useSelector(state => state.favorites.favorites)
     console.log(favorites)

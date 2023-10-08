@@ -28,6 +28,8 @@ app.get('/api', (req, res) => {
         }
     }else if(urlReques.query.page === 'birthday'){
         t3(res)
+    }else if(urlReques.query.page === 'children'){
+        t4(res)
     }else{
         res.json({
             message: "Not Found"
@@ -51,4 +53,11 @@ function t3(res){
     const {data} = JSON.parse(fs.readFileSync(`./db/birthday/catalog/catalog.json`,'utf8'))
     res.json(data)
     console.log('Birthday')
+}
+
+
+function t4(res){
+    const {data} = JSON.parse(fs.readFileSync(`./db/children/catalog.json`,'utf8'))
+    res.json(data)
+    console.log('Children')
 }

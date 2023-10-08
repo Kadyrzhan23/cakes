@@ -1,0 +1,361 @@
+{
+    "data": [
+        {
+            "id": "dchc1",
+            "title": "Детский тортик с золотистым единорогом",
+            "img": "./pages/children/detskij-tort-edinorog-21.jpg",
+            "price": 1440,
+            "tier": 1
+        },
+        {
+            "id": "dchc2",
+            "title": "Детский торт на 1 годик с мишкой и пуговицами",
+            "img": "./pages/children/tort-na-godik-malchiku-26.jpg",
+            "price": 1470,
+            "tier": 1
+        },
+        {
+            "id": "dchc3",
+            "title": "Детский торт с короной, рюшами и бантом",
+            "img": "./pages/children/tort-s-koronoi-riushami-i-bantom.jpg",
+            "price": 1300,
+            "tier": 2
+        },
+        {
+            "id": "dchc4",
+            "title": "Детский торт с воздушным шаром и медведем",
+            "img": "./pages/children/tort-na-godik-malchiku-32.jpg",
+            "price": 1350,
+            "tier": 1
+        },
+        {
+            "id": "dchc5",
+            "title": "Торт на годик мальчику со слоником",
+            "img": "./pages/children/tort-na-godik-malchiku-so-slonikom.jpg",
+            "price": 1400,
+            "tier": 2
+        },
+        {
+            "id": "dchc6",
+            "title": "Аппетитный торт мальчику на годик",
+            "img": "./pages/children/appetitnyi-tort-malchiku-na-godik.jpg",
+            "price": 1260,
+            "tier": 2
+        },
+        {
+            "id": "dchc7",
+            "title": "Разноцветный торт мальчику на годик",
+            "img": "./pages/children/raznotsvetnyi-tort-malchiku-na-godik.jpg",
+            "price": 1390,
+            "tier": 2
+        },
+        {
+            "id": "dchc8",
+            "title": "Прикольный торт мальчику на годик с рыбками",
+            "img": "./pages/children/prikolnyi-tort-malchiku-na-godik-s-rybkami.jpg",
+            "price": 1450,
+            "tier": 2
+        },
+        {
+            "id": "dchc9",
+            "title": "Торт мальчику на годик с шариками и лошадками",
+            "img": "./pages/children/tort-malchiku-na-godik-s-sharikami-i-loshadkami.jpg",
+            "price": 1320,
+            "tier": 1
+        },
+        {
+            "id": "dchc10",
+            "title": "Очаровательный торт мальчику на годик",
+            "img": "./pages/children/ocharovatelnyi-tort-malchiku-na-godik.jpg",
+            "price": 1340,
+            "tier": 2
+        },
+        {
+            "id": "dchc11",
+            "title": "Детский тортик со слоником",
+            "img": "./pages/children/tort-na-1-godik-malchiku-4-e1466265715216.jpg",
+            "price": 1290,
+            "tier": 1
+        },
+        {
+            "id": "dchc12",
+            "title": "Розовый торт с фламинго на 7 лет девочке",
+            "img": "./pages/children/tort-na-sem-let-devochke-7.jpg",
+            "price": 1290,
+            "tier": 3
+        },
+        {
+            "id": "dchc13",
+            "title": "Торт в виде розового замка с флажками",
+            "img": "./pages/children/tort-zamok-6.jpg",
+            "price": 1320,
+            "tier": 3
+        },
+        {
+            "id": "dchc14",
+            "title": "Трехъярусный торт с розами и банто",
+            "img": "./pages/children/jekskljuzivnyj-detskij-tort-dlja-devochki-4.jpg",
+            "price": 1290,
+            "tier": 3
+        },
+        {
+            "id": "dchc15",
+            "title": "Стильный торт с мишками и воздушными шарами",
+            "img": "./pages/children/jekskljuzivnyj-detskij-tort-dlja-malchika-1.jpg",
+            "price": 1390,
+            "tier": 3
+        },
+        {
+            "id": "dchc16",
+            "title": "Детский торт для первого зубика для девочки",
+            "img": "./pages/children/tort-s-bantikom-i-figurkami.jpg",
+            "price": 1360,
+            "tier": 1
+        },
+        {
+            "id": "dchc17",
+            "title": "Торт зеленый трактор",
+            "img": "./pages/children/tort-traktor-1.jpg",
+            "price": 1250,
+            "tier": 1
+        },
+        {
+            "id": "dchc18",
+            "title": "Стильный торт волк и луна",
+            "img": "./pages/children/tort-volk-3-1.jpg",
+            "price": 1250,
+            "tier": 1
+        },
+        {
+            "id": "dchc19",
+            "title": "Торт балерина с розовыми цветами и пуантами",
+            "img": "./pages/children/tort-s-balerinoj-5-1.jpg",
+            "price": 1400,
+            "tier": 2
+        },
+        {
+            "id": "dchc20",
+            "title": "Торт голубой с месяцем и мишкой",
+            "img": "./pages/children/tort-na-vypisku-dlja-malchiku-11.jpg",
+            "price": 1370,
+            "tier": 1
+        },
+        {
+            "id": "dchc21",
+            "title": "Черный торт с фигурками планет",
+            "img": "./pages/children/tort-kosmos-9.jpg",
+            "price": 1330,
+            "tier": 2
+        },
+        {
+            "id": "dchc22",
+            "title": "Нежный торт балерина с пуантами",
+            "img": "./pages/children/tort-s-balerinoj-6-1.jpg",
+            "price": 1450,
+            "tier": 2
+        },
+        {
+            "id": "dchc23",
+            "title": "Торт со слониками и облаками",
+            "img": "./pages/children/tort-so-slonikami-i-oblakami.jpg",
+            "price": 1400,
+            "tier": 3
+        },
+        {
+            "id": "dchc24",
+            "title": "Голубой торт на выписку мальчика",
+            "img": "./pages/children/tort-na-vypisku-dlja-malchiku-1.jpg",
+            "price": 1350,
+            "tier": 2
+        },
+        {
+            "id": "dchc25",
+            "title": "Розовый торт на выписку для девочки",
+            "img": "./pages/children/tort-na-vypisku-7.jpg",
+            "price": 1350,
+            "tier": 2
+        },
+        {
+            "id": "dchc26",
+            "title": "Нежный торт с шарами на 6 лет девочке",
+            "img": "./pages/children/tort-na-trinadcat-let-devochke-4.jpg",
+            "price": 1240,
+            "tier": 2
+        },
+        {
+            "id": "dchc27",
+            "title": "Стильный торт с паровозиком и корабликом",
+            "img": "./pages/children/tort-parovozik-5.jpg",
+            "price": 1330,
+            "tier": 2
+        },
+        {
+            "id": "dchc28",
+            "title": "Розовый торт со слоненком и зигзагами",
+            "img": "./pages/children/tort-na-1-godik-devochke-2-e1466260014106.jpg",
+            "price": 1390,
+            "tier": 2
+        },
+        {
+            "id": "dchc29",
+            "title": "Голубой торт в виде железной дороги с паровозиком и вагончиками",
+            "img": "./pages/children/tort-parovozik-e1467023476239.jpg",
+            "price": 1220,
+            "tier": 1
+        },
+        {
+            "id": "dchc30",
+            "title": "Торт с серым бегемотиком и шариком",
+            "img": "./pages/children/tort-na-godik-devochke-24.jpg",
+            "price": 1350,
+            "tier": 1
+        },
+        {
+            "id": "dchc31",
+            "title": "Нежный торт в горошек с зайчиком",
+            "img": "./pages/children/tort-na-rozhdenie-devochke-8-1.jpg",
+            "price": 1310,
+            "tier": 1
+        },
+        {
+            "id": "dchc32",
+            "title": "Белый торт с золотым бордюром и короной",
+            "img": "./pages/children/tort-korona.jpg",
+            "price": 1310,
+            "tier": 1
+        },
+        {
+            "id": "dchc33",
+            "title": "Нежно-розовый торт со слоником и шариком",
+            "img": "./pages/children/tort-na-rozhdenie-devochke-11-1.jpg",
+            "price": 1250,
+            "tier": 1
+        },
+        {
+            "id": "dchc34",
+            "title": "Торт в розовых тонах с коляской",
+            "img": "./pages/children/tort-na-rozhdenie-devochke-9-1.jpg",
+            "price": 1240,
+            "tier": 1
+        },
+        {
+            "id": "dchc35",
+            "title": "Торт с мишками и подарками",
+            "img": "./pages/children/jekskljuzivnyj-detskij-tort-dlja-malchika-17.jpg",
+            "price": 1440,
+            "tier": 3
+        },
+        {
+            "id": "dchc36",
+            "title": "Торт девочке на 9 лет в морском стиле",
+            "img": "./pages/children/tort-devochke-na-9-let-v-morskom-stile.jpg",
+            "price": 139,
+            "tier": 3
+        },
+        {
+            "id": "dchc37",
+            "title": "Эффектный торт на 3 года девочке с короной",
+            "img": "./pages/children/effektnyi-tort-na-3-goda-devochke-s-koronoi.jpg",
+            "price": 1430,
+            "tier": 3
+        },
+        {
+            "id": "dchc38",
+            "title": "Превосходный торт девочке на 10 лет с цветами",
+            "img": "./pages/children/prevoskhodnyi-tort-devochke-na-10-let-s-tsvetami.jpg",
+            "price": 1280,
+            "tier": 3
+        },
+        {
+            "id": "dchc39",
+            "title": "Квадратный торт на выпускной в детский сад",
+            "img": "./pages/children/kvadratnyi-tort-na-vypusknoi-v-detskii-sad.jpg",
+            "price": 1350,
+            "tier": 3
+        },
+        {
+            "id": "dchc40",
+            "title": "Красивый торт на крестины мальчику с трафаретом и крестиком",
+            "img": "./pages/children/krasivyi-tort-na-krestiny-s-trafaretom-i-krestikom.jpg",
+            "price": 1360,
+            "tier": 3
+        },
+        {
+            "id": "dchc41",
+            "title": "Торт с бантами и короной на верхушке",
+            "img": "./pages/children/tort-dlja-devochki-na-10-let-5.jpg",
+            "price": 1420,
+            "tier": 3
+        },
+        {
+            "id": "dchc42",
+            "title": "",
+            "img": "./pages/children/.jpg",
+            "price": 0,
+            "tier": 3
+        },
+        {
+            "id": "dchc43",
+            "title": "",
+            "img": "./pages/children/.jpg",
+            "price": 0,
+            "tier": 3
+        },
+        {
+            "id": "dchc44",
+            "title": "",
+            "img": "./pages/children/.jpg",
+            "price": 0,
+            "tier": 3
+        },
+        {
+            "id": "dchc45",
+            "title": "",
+            "img": "./pages/children/.jpg",
+            "price": 0,
+            "tier": 3
+        },
+        {
+            "id": "dchc46",
+            "title": "",
+            "img": "./pages/children/.jpg",
+            "price": 0,
+            "tier": 3
+        },
+        {
+            "id": "dchc47",
+            "title": "",
+            "img": "./pages/children/.jpg",
+            "price": 0,
+            "tier": 3
+        },
+        {
+            "id": "dchc48",
+            "title": "",
+            "img": "./pages/children/.jpg",
+            "price": 0,
+            "tier": 3
+        },
+        {
+            "id": "dchc49",
+            "title": "",
+            "img": "./pages/children/.jpg",
+            "price": 0,
+            "tier": 3
+        },
+        {
+            "id": "dchc50",
+            "title": "",
+            "img": "./pages/children/.jpg",
+            "price": 0,
+            "tier": 3
+        },
+        {
+            "id": "dchc51",
+            "title": "",
+            "img": "./pages/children/.jpg",
+            "price": 0,
+            "tier": 3
+        }
+    ]
+}

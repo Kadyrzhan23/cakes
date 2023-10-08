@@ -1,11 +1,12 @@
 .wrapper {
     width: 100%;
     height: 207px;
-    background-image: url('../../../.././public/pages/birthday/section-01/rozhdenija-cake.jpg');
+    background-image: url('../../../public/pages/children/children-cake.jpg');
     background-repeat: no-repeat;
     background-position: right;
     padding: 15px 30px;
     /* background-size: cover; */
+    /* background-image: url(); */
 }
 
 .parent{
