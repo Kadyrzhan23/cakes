@@ -1,0 +1,424 @@
+{
+    "data": [
+        {
+            "id": "dbcc1",
+            "title": "Торт с Эйфелевой башней и фонариком",
+            "img": "./pages/birthday/catalog/tort-devushke-na-15-let-4-1.jpg",
+            "price": 1280,
+            "tier": 1
+        },
+        {
+            "id": "dbcc2",
+            "title": "Разноцветный торт с сочными сладостями",
+            "img": "./pages/birthday/catalog/tort-na-14-let-devochke-bez-mastiki.jpg",
+            "price": 1240,
+            "tier": 1
+        },
+        {
+            "id": "dbcc3",
+            "title": "Фруктовый торт с шоколадом на день рождения",
+            "img": "./pages/birthday/catalog/tort-fruktovyj-populjarnyj-5.jpg",
+            "price": 1390,
+            "tier": 1
+        },
+        {
+            "id": "dbcc4",
+            "title": "Торт с красной туфелькой в стиле шанель",
+            "img": "./pages/birthday/catalog/tort-devushke-na-18-let-10.jpg",
+            "price": 1410,
+            "tier": 3
+        },
+        {
+            "id": "dbcc5",
+            "title": "Нежно-розовый торт с ягодами и цветами для девушки",
+            "img": "./pages/birthday/catalog/tort-s-zhivymi-cvetami-populjarnyj-22.jpg",
+            "price": 1210,
+            "tier": 1
+        },
+        {
+            "id": "dbcc6",
+            "title": "Торт со сладостями на день рождения",
+            "img": "./pages/birthday/catalog/tort-devushke-na-15-let-7-1.jpg",
+            "price": 1430,
+            "tier": 1
+        },
+        {
+            "id": "dbcc7",
+            "title": "Белый торт с темно-синим бантом",
+            "img": "./pages/birthday/catalog/tort-muzhu-na-den-rozhdenija-3.jpg",
+            "price": 1400,
+            "tier": 1
+        },
+        {
+            "id": "dbcc8",
+            "title": "Торт с клубникой и лесными ягодами",
+            "img": "./pages/birthday/catalog/tort-s-klubnikoj-5.jpg",
+            "price": 1360,
+            "tier": 1
+        },
+        {
+            "id": "dbcc9",
+            "title": "Торт с подсолнухами на день рождения",
+            "img": "./pages/birthday/catalog/tort-podsolnuh.jpg",
+            "price": 1210,
+            "tier": 2
+        },
+        {
+            "id": "dbcc10",
+            "title": "Шоколадный двухъярусный торт с фруктами и ягодами",
+            "img": "./pages/birthday/catalog/tort-synu-na-den-rozhdenija-7.jpg",
+            "price": 1340,
+            "tier": 2
+        },
+        {
+            "id": "dbcc11",
+            "title": "Торт с шоколадом и бутылочками виски",
+            "img": "./pages/birthday/catalog/tort-parnju-na-20-let.jpg",
+            "price": 1390,
+            "tier": 1
+        },
+        {
+            "id": "dbcc12",
+            "title": "Стильный торт с льющимся энергетиком",
+            "img": "./pages/birthday/catalog/tort-kniga-1.jpg",
+            "price": 1390,
+            "tier": 1
+        },
+        {
+            "id": "dbcc13",
+            "title": "Стильный торт с льющимся энергетиком",
+            "img": "./pages/birthday/catalog/tort-pape-19.jpg",
+            "price": 1400,
+            "tier": 2
+        },
+        {
+            "id": "dbcc14",
+            "title": "Торт из шоколада с позолоченными орехами",
+            "img": "./pages/birthday/catalog/tort-pape-na-den-rozhdenija-1.jpg",
+            "price": 1320,
+            "tier": 2
+        },
+        {
+            "id": "dbcc15",
+            "title": "Торт мужу на день рождения 30 лет",
+            "img": "./pages/birthday/catalog/tort-muzhu-na-den-rozhdenija-8.jpg",
+            "price": 1290,
+            "tier": 2
+        },
+        {
+            "id": "dbcc16",
+            "title": "Двухъярусный торт в виде корзины с ягодами",
+            "img": "./pages/birthday/catalog/tort-mame-56.jpg",
+            "price": 1320,
+            "tier": 2
+        },
+        {
+            "id": "dbcc17",
+            "title": "Черный торт с живыми цветами",
+            "img": "./pages/birthday/catalog/tort-chernyj-4-1.jpg",
+            "price": 1370,
+            "tier": 2
+        },
+        {
+            "id": "dbcc18",
+            "title": "Торт фанату футбольного клуба Барселона",
+            "img": "./pages/birthday/catalog/tort-barselona-2.jpg",
+            "price": 1300,
+            "tier": 2
+        },
+        {
+            "id": "dbcc19",
+            "title": "Золотой торт с цветами и нежными цветами",
+            "img": "./pages/birthday/catalog/tort-mame-36.jpg",
+            "price": 1220,
+            "tier": 2
+        },
+        {
+            "id": "dbcc20",
+            "title": "Двухъярусный торт с цветами и инициалами",
+            "img": "./pages/birthday/catalog/tort-mame-18.jpg",
+            "price": 1260,
+            "tier": 2
+        },
+        {
+            "id": "dbcc21",
+            "title": "Недорогой торт с белыми кремовыми розами на день рождения",
+            "img": "./pages/birthday/catalog/tort-na-den-rozhdenija-nedorogo-2-1.jpg",
+            "price": 1280,
+            "tier": 2
+        },
+        {
+            "id": "dbcc22",
+            "title": "Торт Мерседес с эмблемой и шиной",
+            "img": "./pages/birthday/catalog/tort-mersedes-mercedes-2.jpg",
+            "price": 1350,
+            "tier": 2
+        },
+        {
+            "id": "dbcc23",
+            "title": "Торт в черно-белом цвете с бантиком",
+            "img": "./pages/birthday/catalog/tort-parnju-na-den-rozhdenija-9.jpg",
+            "price": 1290,
+            "tier": 2
+        },
+        {
+            "id": "dbcc24",
+            "title": "Торт в фиолетовых тонах с бокалами и цифрами",
+            "img": "./pages/birthday/catalog/tort-devushke-na-21-god.jpg",
+            "price": 1270,
+            "tier": 2
+        },
+        {
+            "id": "dbcc25",
+            "title": "Двухъярусный розовый торт с яркими цветами и макарунами",
+            "img": "./pages/birthday/catalog/tort-mame-27.jpg",
+            "price": 1310,
+            "tier": 2
+        },
+        {
+            "id": "dbcc26",
+            "title": "Торт лавандового цвета с цветами",
+            "img": "./pages/birthday/catalog/tort-lavandovyj-12.jpg",
+            "price": 1320,
+            "tier": 3
+        },
+        {
+            "id": "dbcc27",
+            "title": "Полосатый торт с якорем в морском стиле",
+            "img": "./pages/birthday/catalog/tort-v-morskom-stile-9-1.jpg",
+            "price": 1280,
+            "tier": 3
+        },
+        {
+            "id": "dbcc28",
+            "title": "Оригинальный торт в бело-голубых тонах",
+            "img": "./pages/birthday/catalog/tort-podruge-na-den-rozhdenija-8.jpg",
+            "price": 1390,
+            "tier": 3
+        },
+        {
+            "id": "dbcc29",
+            "title": "Белый торт с розовыми каллами",
+            "img": "./pages/birthday/catalog/tort-s-cvetami-kally-5-1.jpg",
+            "price": 1260,
+            "tier": 3
+        },
+        {
+            "id": "dbcc30",
+            "title": "Торт розово-бирюзовый с орхидеями",
+            "img": "./pages/birthday/catalog/tort-rozovo-birjuzovyj-3.jpg",
+            "price": 1370,
+            "tier": 3
+        },
+        {
+            "id": "dbcc31",
+            "title": "Торт розово-бирюзовый с розой из мастики",
+            "img": "./pages/birthday/catalog/tort-rozovo-birjuzovyj-4.jpg",
+            "price": 1250,
+            "tier": 3
+        },
+        {
+            "id": "dbcc32",
+            "title": "Трехъярусный торт в Украинском стиле с подсолнухом",
+            "img": "./pages/birthday/catalog/tort-v-stile-ukrainskom-4.jpg",
+            "price": 1380,
+            "tier": 3
+        },
+        {
+            "id": "dbcc33",
+            "title": "Торт Зимний",
+            "img": "./pages/birthday/catalog/tort-zimnij.jpg",
+            "price": 1370,
+            "tier": 3
+        },
+        {
+            "id": "dbcc34",
+            "title": "Бордово-золотой торт Восток украшенный розами",
+            "img": "./pages/birthday/catalog/tort-vostochniy-e1466533631401.jpg",
+            "price": 1380,
+            "tier": 3
+        },
+        {
+            "id": "dbcc35",
+            "title": "Блестящий розовый торт с рюшами",
+            "img": "./pages/birthday/catalog/tort-zhene-8.jpg",
+            "price": 1350,
+            "tier": 3
+        },
+        {
+            "id": "dbcc36",
+            "title": "Недорогой нежно-розовый торт с розами на день рождения",
+            "img": "./pages/birthday/catalog/tort-na-den-rozhdenija-nedorogo-5-1.jpg",
+            "price": 1260,
+            "tier": 1
+        },
+        {
+            "id": "dbcc37",
+            "title": "Красивый недорогой торт из мастики с цветами",
+            "img": "./pages/birthday/catalog/krasivyi-nedorogoi-tort-iz-mastiki-s-tsvetami.jpg",
+            "price": 1250,
+            "tier": 1
+        },
+        {
+            "id": "dbcc38",
+            "title": "Кремовый торт с кружевами и цветами",
+            "img": "./pages/birthday/catalog/krasivyi-nedorogoi-tort-iz-mastiki-s-tsvetami.jpeg",
+            "price": 1360,
+            "tier": 1
+        },
+        {
+            "id": "dbcc39",
+            "title": "Бело-фиолетовый торт для подруги",
+            "img": "./pages/birthday/catalog/tort-podruge-na-den-rozhdenija-11.jpg",
+            "price": 1270,
+            "tier": 1
+        },
+        {
+            "id": "dbcc40",
+            "title": "Трехъярусный торт колесо",
+            "img": "./pages/birthday/catalog/tort-koleso-2.jpg",
+            "price": 1250,
+            "tier": 3
+        },
+        {
+            "id": "dbcc41",
+            "title": "Кремовый торт с лавандой",
+            "img": "./pages/birthday/catalog/tort-lavandovyj-6.jpg",
+            "price": 1520,
+            "tier": 3
+        },
+        {
+            "id": "dbcc42",
+            "title": "Нежный розовый торт с сакурой",
+            "img": "./pages/birthday/catalog/tort-sakura-6.jpg",
+            "price": 1400,
+            "tier": 3
+        },
+        {
+            "id": "dbcc43",
+            "title": "Мятный торт со стрекозами",
+            "img": "./pages/birthday/catalog/tort-mjatnyj-5-1.jpg",
+            "price": 1310,
+            "tier": 3
+        },
+        {
+            "id": "dbcc44",
+            "title": "Трехэтажный торт с бутылкой шампанского в ведре",
+            "img": "./pages/birthday/catalog/tort-parnju-na-21-god-4.jpg",
+            "price": 1260,
+            "tier": 3
+        },
+        {
+            "id": "dbcc45",
+            "title": "Красивый изумрудный торт из мастики или крема на выбор",
+            "img": "./pages/birthday/catalog/tort-izumrudnyj-1-1.jpg",
+            "price": 1310,
+            "tier": 2
+        },
+        {
+            "id": "dbcc46",
+            "title": "Красивый нежно-голубой торт с цветком",
+            "img": "./pages/birthday/catalog/tort-mame-41.jpg",
+            "price": 1340,
+            "tier": 2
+        },
+        {
+            "id": "dbcc47",
+            "title": "Бело-зеленый двухъярусный торт с цветком",
+            "img": "./pages/birthday/catalog/tort-mame-58.jpg",
+            "price": 1270,
+            "tier": 2
+        },
+        {
+            "id": "dbcc48",
+            "title": "Двухъярусный торт для мамы с розами и мастикой",
+            "img": "./pages/birthday/catalog/tort-mame-11.jpg",
+            "price": 1410,
+            "tier": 2
+        },
+        {
+            "id": "dbcc49",
+            "title": "Белый двухъярусный торт с зеленым рисунком цветов",
+            "img": "./pages/birthday/catalog/tort-zelenyj-6-1.jpg",
+            "price": 1240,
+            "tier": 2
+        },
+        {
+            "id": "dbcc50",
+            "title": "Изысканный зеленый торт с цветами из мастики",
+            "img": "./pages/birthday/catalog/izyskannyi-zelenyi-tort-s-tsvetami-iz-mastiki.png",
+            "price": 1220,
+            "tier": 3
+        },
+        {
+            "id": "dbcc51",
+            "title": "Торт минималистичный белый",
+            "img": "./pages/birthday/catalog/tort-minimalistichnyj-5.jpg",
+            "price": 1430,
+            "tier": 2
+        },
+        {
+            "id": "dbcc52",
+            "title": "Торт с сакурой и пандами",
+            "img": "./pages/birthday/catalog/tort-sakura.jpg",
+            "price": 1260,
+            "tier": 2
+        },
+        {
+            "id": "dbcc53",
+            "title": "Милый розовый торт с золотым бантиком",
+            "img": "./pages/birthday/catalog/tort-devushke-na-18-let-1.jpg",
+            "price": 1330,
+            "tier": 2
+        },
+        {
+            "id": "dbcc54",
+            "title": "Серый двухъярусный торт с розами",
+            "img": "./pages/birthday/catalog/tort-mame-16.jpg",
+            "price": 1420,
+            "tier": 2
+        },
+        {
+            "id": "dbcc55",
+            "title": "Торт с сиреневыми тюльпанами",
+            "img": "./pages/birthday/catalog/tort-s-cvetami-tjulpany-4-1.jpg",
+            "price": 1330,
+            "tier": 1
+        },
+        {
+            "id": "dbcc56",
+            "title": "Нежнейший коралловый торт с тюльпанами",
+            "img": "./pages/birthday/catalog/nezhneishii-korallovyi-tort-s-tiulpanami.jpeg",
+            "price": 1270,
+            "tier": 1
+        },
+        {
+            "id": "dbcc57",
+            "title": "Белый торт украшенный цветами и инжиром",
+            "img": "./pages/birthday/catalog/tort-s-zhivymi-cvetami-populjarnyj-20.jpg",
+            "price": 1330,
+            "tier": 1
+        },
+        {
+            "id": "dbcc58",
+            "title": "Черно-белый торт со сладостями для девочки",
+            "img": "./pages/birthday/catalog/tort-cherno-belyj-7-1.jpg",
+            "price": 1410,
+            "tier": 1
+        },
+        {
+            "id": "dbcc59",
+            "title": "Черно-белый торт с рисунком и розой",
+            "img": "./pages/birthday/catalog/tort-cherno-belyj-8.jpg",
+            "price": 1360,
+            "tier": 2
+        },
+        {
+            "id": "dbcc60",
+            "title": "Черно-белый торт с красным цветком",
+            "img": "./pages/birthday/catalog/tort-cherno-belyj-2-1.jpg",
+            "price": 1340,
+            "tier": 1
+        }
+    ]
+}

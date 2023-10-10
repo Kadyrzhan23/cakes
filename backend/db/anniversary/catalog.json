@@ -1,0 +1,424 @@
+{
+    "data": [
+        {
+            "id": "dac1",
+            "title": "Торт мужчине на юбилей 30 лет с большим синим бантом",
+            "img": "./pages/anniversary/tort-muzhchinam-na-jubilej-30-let-2.jpg",
+            "price": 1370,
+            "tier": 1
+        },
+        {
+            "id": "dac2",
+            "title": "Торт на юбилей мужчине 60 лет с фотографиями",
+            "img": "./pages/anniversary/tort-muzhchinam-na-jubilej-60-let-3.jpg",
+            "price": 1250,
+            "tier": 2
+        },
+        {
+            "id": "dac3",
+            "title": "Шикарный торт Женщине на юбилей 65 лет с большими цветами",
+            "img": "./pages/anniversary/tort-zhenshhinam-na-jubilej-65-let-3.jpg",
+            "price": 1340,
+            "tier": 1
+        },
+        {
+            "id": "dac4",
+            "title": "Красивый юбилейный торт женщине на 60 лет",
+            "img": "./pages/anniversary/tort-zhenshhinam-na-jubilej-60-let.jpg",
+            "price": 1230,
+            "tier": 1
+        },
+        {
+            "id": "dac5",
+            "title": "Торт на юбилей мужчине 60 лет золотисто-черный",
+            "img": "./pages/anniversary/tort-muzhchinam-na-jubilej-60-let-6.jpg",
+            "price": 1420,
+            "tier": 2
+        },
+        {
+            "id": "dac6",
+            "title": "Торт в стиле шанель на день рождение девушки 18 лет",
+            "img": "./pages/anniversary/tort-zhenshhinam-na-jubilej-30-let-26.jpg",
+            "price": 1370,
+            "tier": 2
+        },
+        {
+            "id": "dac7",
+            "title": "Блестящий двухъярусный торт с розами женщине на юбилей 30 лет",
+            "img": "./pages/anniversary/tort-zhenshhinam-na-jubilej-30-let-9.jpg",
+            "price": 1410,
+            "tier": 2
+        },
+        {
+            "id": "dac8",
+            "title": "Бело-золотистый торт на юбилей мужчине 50 лет",
+            "img": "./pages/anniversary/tort-muzhchinam-na-jubilej-50-let-5.jpg",
+            "price": 1390,
+            "tier": 2
+        },
+        {
+            "id": "dac9",
+            "title": "Торт на юбилей мужчине 70 лет черный костюм с бабочкой",
+            "img": "./pages/anniversary/tort-muzhchinam-na-jubilej-70-let-1.jpg",
+            "price": 1330,
+            "tier": 2
+        },
+        {
+            "id": "dac10",
+            "title": "Розовый торт с сумками на юбилей девушке 30 лет",
+            "img": "./pages/anniversary/tort-zhenshhinam-na-jubilej-30-let-25.jpg",
+            "price": 1420,
+            "tier": 1
+        },
+        {
+            "id": "dac11",
+            "title": "Красивый торт без мастики девушке на юбилей 25 лет",
+            "img": "./pages/anniversary/tort-zhenshhinam-na-jubilej-25-let-24.jpg",
+            "price": 1250,
+            "tier": 2
+        },
+        {
+            "id": "dac12",
+            "title": "Фиолетовый торт с кремовыми розами для женщины на юбилей 25 лет",
+            "img": "./pages/anniversary/tort-zhenshhinam-na-jubilej-25-let-18.jpg",
+            "price": 1370,
+            "tier": 2
+        },
+        {
+            "id": "dac13",
+            "title": "Бело-сиреневый торт с цветами на юбилей девушке 25 лет",
+            "img": "./pages/anniversary/tort-zhenshhinam-na-jubilej-25-let-4.jpg",
+            "price": 1290,
+            "tier": 2
+        },
+        {
+            "id": "dac14",
+            "title": "Розово-золотой торт с цветами на юбилей девушке 25 лет",
+            "img": "./pages/anniversary/tort-zhenshhinam-na-jubilej-25-let-8.jpg",
+            "price": 1220,
+            "tier": 3
+        },
+        {
+            "id": "dac15",
+            "title": "Торт для девушки на 25 лет",
+            "img": "./pages/anniversary/tort-zhenshhinam-na-jubilej-25-let-20.jpg",
+            "price": 1340,
+            "tier": 2
+        },
+        {
+            "id": "dac16",
+            "title": "Нежный персиковый торт Женщине на юбилей 25 лет с бантом",
+            "img": "./pages/anniversary/tort-zhenshhinam-na-jubilej-25-let-25.jpg",
+            "price": 1370,
+            "tier": 3
+        },
+        {
+            "id": "dac17",
+            "title": "Торт с лепестками и золотыми украшениями для женщины на юбилей 25 лет",
+            "img": "./pages/anniversary/tort-zhenshhinam-na-jubilej-25-let-17.jpg",
+            "price": 1310,
+            "tier": 3
+        },
+        {
+            "id": "dac18",
+            "title": "Торт в сиреневых тонах на юбилей девушке 30 лет",
+            "img": "./pages/anniversary/tort-zhenshhinam-na-jubilej-30-let-27.jpg",
+            "price": 1240,
+            "tier": 2
+        },
+        {
+            "id": "dac19",
+            "title": "Торт женщине на 30 лет для швеи",
+            "img": "./pages/anniversary/tort-zhenshchine-na-30-let-dlia-shvei.jpg",
+            "price": 1270,
+            "tier": 1
+        },
+        {
+            "id": "dac20",
+            "title": "Торт на юбилей женщине 50 лет бело-сиреневый",
+            "img": "./pages/anniversary/tort-zhenshhinam-na-jubilej-50-let-23-1.jpg",
+            "price": 1230,
+            "tier": 3
+        },
+        {
+            "id": "dac21",
+            "title": "Торт женщине на 50 лет с цифрой",
+            "img": "./pages/anniversary/tort-zhenshchine-na-50-let-s-tsifroi.jpg",
+            "price": 1240,
+            "tier": 2
+        },
+        {
+            "id": "dac22",
+            "title": "Велюровый торт женщине на 50 лет с голубикой и золотом",
+            "img": "./pages/anniversary/veliurovyi-tort-zhenshchine-na-50-let-s-golubikoi-i-zolotom.jpg",
+            "price": 1270,
+            "tier": 1
+        },
+        {
+            "id": "dac23",
+            "title": "Торт с цветами на 21 день рождения девушки",
+            "img": "./pages/anniversary/tort-zhenshhinam-na-jubilej-25-let-5.jpg",
+            "price": 1340,
+            "tier": 2
+        },
+        {
+            "id": "dac24",
+            "title": "Торт с белыми и розовыми цветами на юбилей девушке 25 лет",
+            "img": "./pages/anniversary/tort-zhenshhinam-na-jubilej-25-let-2.jpg",
+            "price": 1340,
+            "tier": 3
+        },
+        {
+            "id": "dac25",
+            "title": "Шоколадный торт мужу на юбилей 50 лет",
+            "img": "./pages/anniversary/tort-na-jubilej-muzhchine-50-let-10.jpg",
+            "price": 1420,
+            "tier": 2
+        },
+        {
+            "id": "dac26",
+            "title": "Торт на день рождения мужу водителю 50 лет",
+            "img": "./pages/anniversary/tort-na-jubilej-muzhchine-50-let-12.jpg",
+            "price": 1350,
+            "tier": 3
+        },
+        {
+            "id": "dac27",
+            "title": "Необычный трехъярусный торт на юбилей девушке 30 лет",
+            "img": "./pages/anniversary/tort-zhenshhinam-na-jubilej-30-let-22.jpg",
+            "price": 1280,
+            "tier": 3
+        },
+        {
+            "id": "dac28",
+            "title": "Торт для девушки на 25 лет",
+            "img": "./pages/anniversary/tort-zhenshhinam-na-jubilej-25-let-20.jpg",
+            "price": 1340,
+            "tier": 2
+        },
+        {
+            "id": "dac29",
+            "title": "Необычный торт на юбилей женщине 50 лет",
+            "img": "./pages/anniversary/tort-zhenshhinam-na-jubilej-50-let-8.jpg",
+            "price": 1290,
+            "tier": 2
+        },
+        {
+            "id": "dac30",
+            "title": "Торт на юбилей женщине 40 лет с узором и цветами",
+            "img": "./pages/anniversary/tort-zhenshhinam-na-jubilej-40-let-3.jpg",
+            "price": 1280,
+            "tier": 2
+        },
+        {
+            "id": "dac31",
+            "title": "Торт без мастики на юбилей женщине 60 лет",
+            "img": "./pages/anniversary/tort-zhenshhinam-na-jubilej-60-let-6.jpg",
+            "price": 1420,
+            "tier": 2
+        },
+        {
+            "id": "dac32",
+            "title": "Экстравагантный темно-синий торт Женщине на юбилей 55 лет",
+            "img": "./pages/anniversary/tort-zhenshhinam-na-jubilej-55-let-1.jpg",
+            "price": 1340,
+            "tier": 2
+        },
+        {
+            "id": "dac33",
+            "title": "Торт на юбилей женщине 55 лет бежевый с ягодами",
+            "img": "./pages/anniversary/tort-zhenshhinam-na-jubilej-55-let-10-e1519129050937.jpg",
+            "price": 1250,
+            "tier": 1
+        },
+        {
+            "id": "dac34",
+            "title": "Торт Женщине на юбилей 40 лет с зигзагами и розами",
+            "img": "./pages/anniversary/tort-zhenshhinam-na-jubilej-40-let-23.jpg",
+            "price": 1370,
+            "tier": 2
+        },
+        {
+            "id": "dac35",
+            "title": "Торт женщине на 50 лет из мастики в черно-розовом цвете",
+            "img": "./pages/anniversary/tort-zhenshhinam-na-jubilej-50-let-13.jpg",
+            "price": 1320,
+            "tier": 3
+        },
+        {
+            "id": "dac36",
+            "title": "Эффектный торт женщине на 50 лет",
+            "img": "./pages/anniversary/effektnyi-tort-zhenshchine-na-50-let.jpg",
+            "price": 1290,
+            "tier": 1
+        },
+        {
+            "id": "dac37",
+            "title": "Шоколадный торт с ягодами на юбилей мужчине 65 лет",
+            "img": "./pages/anniversary/f5d9697c3f2e2cc5dc1d7a4b94dbb48b.jpg",
+            "price": 1280,
+            "tier": 1
+        },
+        {
+            "id": "dac38",
+            "title": "Вкусный торт мужчине на 65 лет с голубикой",
+            "img": "./pages/anniversary/vkusnyi-tort-muzhchine-na-65-let-s-golubikoi.png",
+            "price": 1310,
+            "tier": 1
+        },
+        {
+            "id": "dac39",
+            "title": "Юбилейный торт для мужчины в 65 лет",
+            "img": "./pages/anniversary/bba95f5ec10baecbd2fa548715e0341b.jpg",
+            "price": 1350,
+            "tier": 3
+        },
+        {
+            "id": "dac40",
+            "title": "Торт мужчине на 65 лет в виде костюма",
+            "img": "./pages/anniversary/tort-muzhchine-na-65-let-v-vide-kostiuma.png",
+            "price": 1390,
+            "tier": 1
+        },
+        {
+            "id": "dac41",
+            "title": "Торт мужчине на 65 лет с цифрой",
+            "img": "./pages/anniversary/tort-muzhchine-na-65-let-s-tsifroi.png",
+            "price": 1430,
+            "tier": 1
+        },
+        {
+            "id": "dac42",
+            "title": "Торт на юбилей женщине 70 лет голубой с розовыми цветами",
+            "img": "./pages/anniversary/tort-zhenshhinam-na-jubilej-70-let-1.jpg",
+            "price": 1420,
+            "tier": 1
+        },
+        {
+            "id": "dac43",
+            "title": "Торт голубого цвета со звездами на юбилей мужчине 40 лет",
+            "img": "./pages/anniversary/tort-muzhchinam-na-jubilej-40-let-6.jpg",
+            "price": 1240,
+            "tier": 1
+        },
+        {
+            "id": "dac44",
+            "title": "Торт сиреневого цвета на юбилей женщине 40 лет",
+            "img": "./pages/anniversary/tort-zhenshhinam-na-jubilej-40-let-11.jpg",
+            "price": 1250,
+            "tier": 1
+        },
+        {
+            "id": "dac45",
+            "title": "Легкий торт бенто на юбилей женщине 50 лет с цветами",
+            "img": "./pages/anniversary/legkii-tort-bento-na-iubilei-zhenshchine-50-let-s-tsvetami.jpeg",
+            "price": 1240,
+            "tier": 1
+        },
+        {
+            "id": "dac46",
+            "title": "Минималистичный торт женщине на 50 лет с живыми розами и веточками",
+            "img": "./pages/anniversary/minimalistichnyi-tort-zhenshchine-na-50-let-s-zhivymi-rozami-i-vetochkami.jpg",
+            "price": 1280,
+            "tier": 1
+        },
+        {
+            "id": "dac47",
+            "title": "Бело-голубой торт с рюшами и полосами для женщины на юбилей 30 лет",
+            "img": "./pages/anniversary/tort-zhenshhinam-na-jubilej-30-let-13.jpg",
+            "price": 1420,
+            "tier": 3
+        },
+        {
+            "id": "dac48",
+            "title": "Прикольный торт на 70 лет",
+            "img": "./pages/anniversary/prikolnyi-tort-na-70-let.jpg",
+            "price": 1240,
+            "tier": 1
+        },
+        {
+            "id": "dac49",
+            "title": "Торт на юбилей женщине 55 лет темный с цветком",
+            "img": "./pages/anniversary/tort-zhenshhinam-na-jubilej-55-let-11-e1519129231286.jpg",
+            "price": 1310,
+            "tier": 3
+        },
+        {
+            "id": "dac50",
+            "title": "Шикарный торт на 70 лет с розой",
+            "img": "./pages/anniversary/shikarnyi-tort-na-70-let-s-rozoi.jpg",
+            "price": 1370,
+            "tier": 3
+        },
+        {
+            "id": "dac51",
+            "title": "Эстетичный торт женщине на 50 лет с живыми цветами",
+            "img": "./pages/anniversary/estetichnyi-tort-zhenshchine-na-50-let-s-zhivymi-tsvetami.jpg",
+            "price": 1360,
+            "tier": 3
+        },
+        {
+            "id": "dac52",
+            "title": "Роскошный торт мужчине на 70 лет на три яруса",
+            "img": "./pages/anniversary/roskoshnyi-tort-muzhchine-na-70-let-na-tri-iarusa.png",
+            "price": 1370,
+            "tier": 3
+        },
+        {
+            "id": "dac53",
+            "title": "Семейный торт мужчине на 70 лет",
+            "img": "./pages/anniversary/semeinyi-tort-muzhchine-na-70-let.png",
+            "price": 1420,
+            "tier": 3
+        },
+        {
+            "id": "dac54",
+            "title": "Торт мужчине на 70 лет с надписями",
+            "img": "./pages/anniversary/tort-muzhchine-na-70-let-s-nadpisiami.jpeg",
+            "price": 1330,
+            "tier": 3
+        },
+        {
+            "id": "dac55",
+            "title": "Торт мужчине на 70 лет с бантом",
+            "img": "./pages/anniversary/tort-muzhchine-na-70-let-s-bantom.png",
+            "price": 1380,
+            "tier": 3
+        },
+        {
+            "id": "dac56",
+            "title": "Шикарный торт на юбилей 30 лет",
+            "img": "./pages/anniversary/shikarnyi-tort-na-iubilei-30-let.jpg",
+            "price": 1290,
+            "tier": 3
+        },
+        {
+            "id": "dac57",
+            "title": "Торт на юбилей мужчине 60 лет с красной машиной",
+            "img": "./pages/anniversary/tort-muzhchinam-na-jubilej-60-let-5.jpg",
+            "price": 1370,
+            "tier": 3
+        },
+        {
+            "id": "dac58",
+            "title": "Торт на юбилей женщине 40 лет разноцветный с цветами",
+            "img": "./pages/anniversary/tort-zhenshhinam-na-jubilej-40-let-1.jpg",
+            "price": 1380,
+            "tier": 3
+        },
+        {
+            "id": "dac59",
+            "title": "Бенто торт на юбилей женщине с голубикой и макарунс",
+            "img": "./pages/anniversary/bento-tort-na-iubilei-zhenshchine-s-golubikoi-i-makaruns.jpeg",
+            "price": 1230,
+            "tier": 1
+        },
+        {
+            "id": "dac60",
+            "title": "Торт бенто на юбилей женщине 50 лет из крема с цифрой",
+            "img": "./pages/anniversary/tort-na-iubilei-zhenshchine-50-let-iz-krema-s-tsifroi.jpeg",
+            "price": 1320,
+            "tier": 1
+        }
+    ]
+}

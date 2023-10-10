@@ -15,7 +15,10 @@ export const cakesApi = createApi({
         }),
         getPageChildren: build.query({
             query: (str) => `?page=children`
-        })
+        }),
+        getPageForCategory: build.query({
+            query: (str) => `?page=${str}`
+        }),
     })
 })
 
@@ -23,4 +26,5 @@ export const {
     useGetCardsQuery,
     useGetmainBestCakesQuery,
     useGetPageBirthdayQuery,
-    useGetPageChildrenQuery } = cakesApi;
+    useGetPageChildrenQuery,
+    useGetPageForCategoryQuery } = cakesApi;

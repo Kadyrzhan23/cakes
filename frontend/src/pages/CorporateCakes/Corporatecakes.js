@@ -7,7 +7,7 @@ const Corporatecakes = () => {
         setTimeout(function(){
             window.scrollTo(0, 0);
         }, 1);
-    },1)
+    },[])
     return (
         <div>
             <h2>Corporate</h2>

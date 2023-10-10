@@ -289,73 +289,136 @@
         },
         {
             "id": "dchc42",
-            "title": "",
-            "img": "./pages/children/.jpg",
-            "price": 0,
-            "tier": 3
+            "title": "Двухъярусный шикарный торт с радугой для малыша",
+            "img": "./pages/children/dvukhieiarusnyi-shikarnyi-tort-s-radugoi-dlia-malysha.jpg",
+            "price": 1270,
+            "tier": 2
         },
         {
             "id": "dchc43",
-            "title": "",
-            "img": "./pages/children/.jpg",
-            "price": 0,
-            "tier": 3
+            "title": "Молочный торт с пингвинами",
+            "img": "./pages/children/molochnyi-tort-s-pingvinami.jpg",
+            "price": 1310,
+            "tier": 1
         },
         {
             "id": "dchc44",
-            "title": "",
-            "img": "./pages/children/.jpg",
-            "price": 0,
-            "tier": 3
+            "title": "Велюровый голубой торт с пингвином",
+            "img": "./pages/children/veliurovyi-goluboi-tort-s-pingvinom.jpg",
+            "price": 1420,
+            "tier": 1
         },
         {
             "id": "dchc45",
-            "title": "",
-            "img": "./pages/children/.jpg",
-            "price": 0,
-            "tier": 3
+            "title": "Желто-голубой торт с короной и надписью",
+            "img": "./pages/children/tort-korona-dlja-malchika-4.jpg",
+            "price": 1370,
+            "tier": 2
         },
         {
             "id": "dchc46",
-            "title": "",
-            "img": "./pages/children/.jpg",
-            "price": 0,
-            "tier": 3
+            "title": "Розово-голубой торт двухъярусный с тапочками и зайками",
+            "img": "./pages/children/tort-dlja-dvuh-imeninnikov-19.jpg",
+            "price": 1380,
+            "tier": 2
         },
         {
             "id": "dchc47",
-            "title": "",
-            "img": "./pages/children/.jpg",
-            "price": 0,
-            "tier": 3
+            "title": "Торт для двойни мальчик и девочка",
+            "img": "./pages/children/tort-dlja-dvojnjashek-malchiku-i-devochke-4.jpg",
+            "price": 1420,
+            "tier": 2
         },
         {
             "id": "dchc48",
-            "title": "",
-            "img": "./pages/children/.jpg",
-            "price": 0,
-            "tier": 3
+            "title": "Розовый торт с ползунками и распашонками",
+            "img": "./pages/children/tort-na-vypisku-1.jpg",
+            "price": 1270,
+            "tier": 2
         },
         {
             "id": "dchc49",
-            "title": "",
-            "img": "./pages/children/.jpg",
-            "price": 0,
-            "tier": 3
+            "title": "Нежный торт на выписку с младенцем и крестиком",
+            "img": "./pages/children/nezhnyi-tort-na-vypisku-s-mladentsem-i-krestikom.jpg",
+            "price": 1270,
+            "tier": 2
         },
         {
             "id": "dchc50",
-            "title": "",
-            "img": "./pages/children/.jpg",
-            "price": 0,
+            "title": "Воздушный торт на выписку",
+            "img": "./pages/children/vozdushnyi-tort-na-vypisku.jpg",
+            "price": 1240,
             "tier": 3
         },
         {
             "id": "dchc51",
-            "title": "",
-            "img": "./pages/children/.jpg",
-            "price": 0,
-            "tier": 3
+            "title": "Торт с большим полосатым бантом",
+            "img": "./pages/children/tort-na-rozhdenie-malchik-ili-devochka.jpg",
+            "price": 1320,
+            "tier": 2
+        },
+        {
+            "id": "dchc52",
+            "title": "Торт сюрприз девочка или мальчик",
+            "img": "./pages/children/tort-na-rozhdenie-malchik-ili-devochka-7.jpg",
+            "price": 1220,
+            "tier": 1
+        },
+        {
+            "id": "dchc53",
+            "title": "Торт во время беременности: мальчик или девочка",
+            "img": "./pages/children/tort-na-rozhdenie-malchik-ili-devochka-11.jpg",
+            "price": 1280,
+            "tier": 1
+        },
+        {
+            "id": "dchc54",
+            "title": "Голубой торт на выписку мальчика из роддома",
+            "img": "./pages/children/tort-na-vypisku-dlja-malchiku-2.jpg",
+            "price": 1270,
+            "tier": 2
+        },
+        {
+            "id": "dchc55",
+            "title": "Розовый торт для двойни девочек",
+            "img": "./pages/children/tort-dlja-dvojnjashek-devochke-2.jpg",
+            "price": 1320,
+            "tier": 1
+        },
+        {
+            "id": "dchc56",
+            "title": "Торт на день рождения девочкам двойняшкам",
+            "img": "./pages/children/tort-dlja-dvojnjashek-devochke-8.jpg",
+            "price": 1240,
+            "tier": 2
+        },
+        {
+            "id": "dchc57",
+            "title": "Нежный торт с цифрой 2 и фотопечатью",
+            "img": "./pages/children/nezhnyi-tort-s-tsifroi-2-i-fotopechatiu.png",
+            "price": 1270,
+            "tier": 1
+        },
+        {
+            "id": "dchc58",
+            "title": "Голубой торт с аистом и золотой надписью",
+            "img": "./pages/children/tort-nezhnyi-dlia-devochki-4.jpg",
+            "price": 1270,
+            "tier": 1
+        },
+        {
+            "id": "dchc59",
+            "title": "Нежный торт с медвежонком и белыми розами",
+            "img": "./pages/children/nezhnyi-tort-s-medvezhonkom-i-belymi-rozami.png",
+            "price": 1340,
+            "tier": 1
+        },
+        {
+            "id": "dchc60",
+            "title": "Нежный торт с цветочками в два яруса",
+            "img": "./pages/children/nezhnyi-tort-s-tsvetochkami-v-dva-iarusa.png",
+            "price": 1290,
+            "tier": 2
         }
     ]
 }

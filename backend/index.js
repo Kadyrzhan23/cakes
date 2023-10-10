@@ -26,10 +26,9 @@ app.get('/api', (req, res) => {
                 message: "Top imagees --- ok"
             })
         }
-    }else if(urlReques.query.page === 'birthday'){
-        t3(res)
-    }else if(urlReques.query.page === 'children'){
-        t4(res)
+    }
+    else if(urlReques.query.page === 'wedding' || 'children' || 'anniversary' || 'birthday'){
+        t6(res,urlReques.query.page)
     }else{
         res.json({
             message: "Not Found"
@@ -49,15 +48,27 @@ function t2(fileName,res){
     res.json(data)
 }
 
-function t3(res){
-    const {data} = JSON.parse(fs.readFileSync(`./db/birthday/catalog/catalog.json`,'utf8'))
-    res.json(data)
-    console.log('Birthday')
-}
+// function t3(res){
+//     const {data} = JSON.parse(fs.readFileSync(`./db/birthday/catalog/catalog.json`,'utf8'))
+//     res.json(data)
+//     console.log('Birthday')
+// }
 
 
-function t4(res){
-    const {data} = JSON.parse(fs.readFileSync(`./db/children/catalog.json`,'utf8'))
+// function t4(res){
+//     const {data} = JSON.parse(fs.readFileSync(`./db/children/catalog.json`,'utf8'))
+//     res.json(data)
+//     console.log('Children')
+// }
+
+// function t5(res){
+//     const {data} = JSON.parse(fs.readFileSync(`./db/anniversary/catalog.json`,'utf8'))
+//     res.json(data)
+//     console.log('anniversary')
+// }
+
+function t6(res,filename){
+    const {data} = JSON.parse(fs.readFileSync(`./db/${filename}/catalog.json`,'utf8'))
     res.json(data)
-    console.log('Children')
+    // console.log('anniversary')
 }
