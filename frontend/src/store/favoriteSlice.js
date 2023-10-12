@@ -4,7 +4,8 @@ const favoriteSlice = createSlice({
     name: 'favorites',
     initialState: {
         favorites: [],
-        favoritesId: []
+        favoritesId: [],
+        popupPositionTop:0
     },
     reducers: {
         addToFavorite(state, { payload }) {
@@ -30,9 +31,12 @@ const favoriteSlice = createSlice({
             const cakesId = JSON.parse(localStorage.getItem('favoritesId'));
             state.favorites = favoriteCakes !== null ? favoriteCakes :[...[]]
             state.favoritesId = cakesId !== null ? cakesId :[...[]]
+        },
+        popupPositionTopEdit(state,{payload}){
+            state.popupPositionTop = payload
         }
     }
 })
 
-export const { addToFavorite ,deleteFromFavorite , getDataFromLocalStorage} = favoriteSlice.actions
+export const { addToFavorite ,deleteFromFavorite , getDataFromLocalStorage , popupPositionTopEdit} = favoriteSlice.actions
 export default favoriteSlice.reducer

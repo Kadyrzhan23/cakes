@@ -81,6 +81,12 @@
     height: 40px;
 }
 
+.edit{
+    margin-left: 15px;
+    width: 40px;
+    height: 40px;
+}
+
 
 @media (max-width:1600px){
     .card_body{
@@ -120,11 +126,13 @@
         font-weight: 600;
     }
     
-    .favorite{
+    .favorite  .edit{
         margin-left: 15px;
         width: 35px;
         height: 35px;
     }
+
+    
 }
 
 

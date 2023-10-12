@@ -18,6 +18,10 @@ app.get('/api', (req, res) => {
     if(urlReques.query.page === 'main'){
         if(urlReques.query.query === 'cards'){
             t1(urlReques.query.collection,res)
+            t3(res)
+        }
+        else if(urlReques.query.query === 'products'){
+            t3(res)
         }
         else if(urlReques.query.query === 'bests'){
             t2(urlReques.query.collections,res)
@@ -27,7 +31,7 @@ app.get('/api', (req, res) => {
             })
         }
     }
-    else if(urlReques.query.page === 'wedding' || 'children' || 'anniversary' || 'birthday'){
+    else if(urlReques.query.page === 'wedding' || 'children' || 'anniversary' || 'birthday' || 'bento' || 'corporate'){
         t6(res,urlReques.query.page)
     }else{
         res.json({
@@ -48,27 +52,27 @@ function t2(fileName,res){
     res.json(data)
 }
 
-// function t3(res){
-//     const {data} = JSON.parse(fs.readFileSync(`./db/birthday/catalog/catalog.json`,'utf8'))
-//     res.json(data)
-//     console.log('Birthday')
-// }
+function t3(res){
+    console.log('t3')
+    let arr = ['anniversary', 'bento',  'birthday', 'children','corporate','festive','wedding']
+    let result = []
+    let accum =[]
+    arr.map((item,index) => result.push(t4(item)))
+    result.map(item => item.map(elem =>{
+        elem.path = __filename
+        accum.push(elem)
+    }))
+    res.json(accum)
+}
 
+function t4(filename){
+    const {data} = JSON.parse(fs.readFileSync(`./db/${filename}/catalog.json`,'utf8'))
+    return data
+}
 
-// function t4(res){
-//     const {data} = JSON.parse(fs.readFileSync(`./db/children/catalog.json`,'utf8'))
-//     res.json(data)
-//     console.log('Children')
-// }
-
-// function t5(res){
-//     const {data} = JSON.parse(fs.readFileSync(`./db/anniversary/catalog.json`,'utf8'))
-//     res.json(data)
-//     console.log('anniversary')
-// }
 
 function t6(res,filename){
     const {data} = JSON.parse(fs.readFileSync(`./db/${filename}/catalog.json`,'utf8'))
+    data.map(item => item.fileName = filename)
     res.json(data)
-    // console.log('anniversary')
 }

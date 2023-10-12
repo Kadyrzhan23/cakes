@@ -4,7 +4,7 @@ const Section01 = ({title,text,background}) => {
     return (
         <div 
         className={styles.wrapper}
-        style={{backgroundImage:`url(${background})`}}
+        style={{background:`url(${background})no-repeat center top`}}
         >
             <div className={styles.parent}>
                 <div className={styles.title}>

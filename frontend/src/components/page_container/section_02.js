@@ -1,8 +1,10 @@
 import React, { useState } from 'react';
 import styles from './Section_02.module.css'
 import Card from '../Card/Card'
-const Section02 = ({data,isSuccess}) => {
+import { useLocation } from 'react-router-dom';
+const Section02 = ({ data, isSuccess }) => {
     // const { data, isSuccess } = useGetPageBirthdayQuery()
+    const { pathname } = useLocation()
     const [res, setRes] = useState([])
     if (isSuccess && res.length === 0) {
         setRes(data)
@@ -17,12 +19,16 @@ const Section02 = ({data,isSuccess}) => {
                 <div><strong>Сортировка</strong></div>
                 <label htmlFor="">
                     Ярусы
-                        <select name="" id="select" className={styles.select_css} onChange={(e) => change(e)}>
-                            <option value="">все</option>
-                            <option value="1">1</option>
-                            <option value="2">2</option>
-                            <option value="3">3</option>
-                        </select>
+                    <select name="" id="select" className={styles.select_css} onChange={(e) => change(e)}>
+                        <option value="">все</option>
+                        <option value="1">1</option>
+                        {
+                            pathname !== '/bento' && <>
+                                <option value="2">2</option>
+                                <option value="3">3</option>
+                            </>
+                        }
+                    </select>
                 </label>
             </div>
             <div className={styles.card_wrapper}>

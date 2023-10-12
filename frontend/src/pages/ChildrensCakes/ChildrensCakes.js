@@ -3,9 +3,9 @@ import styles from './ChildrensCakes.module.css'
 import { useEffect } from 'react';
 import Section01 from '../../components/page_header/section_01'
 import Section02 from '../../components/page_container/section_02'
-import { useGetPageChildrenQuery } from '../../store/cakesApi';
+import { useGetPageForCategoryQuery } from '../../store/cakesApi';
 const ChildrensCakes = () => { //Детские
-    const {data , isSuccess} = useGetPageChildrenQuery()
+    const {data , isSuccess} = useGetPageForCategoryQuery('children')
     console.log(data)
     const background = `http://localhost:3000/static/media/children-cake.5255c24ece58fe21b532.jpg`
     const title = `Детские торты`

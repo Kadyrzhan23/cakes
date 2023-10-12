@@ -1,0 +1,424 @@
+{
+    "data": [
+        {
+            "id": "dc2c1",
+            "title": "Торт начальнику на корпоративный праздник",
+            "img": "./pages/corporate/tort-nachalniku-5.jpg",
+            "price": 1240,
+            "tier": 1
+        },
+        {
+            "id": "dc2c2",
+            "title": "Строгий квадратный торт на корпоратив в бежевых тонах",
+            "img": "./pages/corporate/tort-na-korporativ-15.jpg",
+            "price": 1250,
+            "tier": 3
+        },
+        {
+            "id": "dc2c3",
+            "title": "Большой шоколадный торт на корпоратив",
+            "img": "./pages/corporate/tort-na-korporativ-24.jpg",
+            "price": 1370,
+            "tier": 3
+        },
+        {
+            "id": "dc2c4",
+            "title": "Торт директору в виде мешка с деньгами",
+            "img": "./pages/corporate/tort-direktoru.jpg",
+            "price": 1440,
+            "tier": 1
+        },
+        {
+            "id": "dc2c5",
+            "title": "Торт из мастики с логотипом Мерседес",
+            "img": "./pages/corporate/tort-s-logotipom-2.jpg",
+            "price": 1230,
+            "tier": 1
+        },
+        {
+            "id": "dc2c6",
+            "title": "Двухъярусный гравитационный торт с логотипом компании Coca-Cola",
+            "img": "./pages/corporate/tort-s-logotipom-1.jpg",
+            "price": 1340,
+            "tier": 2
+        },
+        {
+            "id": "dc2c7",
+            "title": "Торт с логотипом и фруктами на корпоратив",
+            "img": "./pages/corporate/tort-s-logotipom-32.jpg",
+            "price": 1340,
+            "tier": 1
+        },
+        {
+            "id": "dc2c8",
+            "title": "Торт с логотипом на корпоративный праздник",
+            "img": "./pages/corporate/tort-s-logotipom-15.jpg",
+            "price": 1210,
+            "tier": 1
+        },
+        {
+            "id": "dc2c9",
+            "title": "Элегантный черно-белый торт в виде небоскреба с логотипом",
+            "img": "./pages/corporate/tort-s-logotipom-5.jpg",
+            "price": 1440,
+            "tier": 3
+        },
+        {
+            "id": "dc2c10",
+            "title": "Бело-золотой торт на корпоратив с квадратными ярусами",
+            "img": "./pages/corporate/tort-na-korporativ-25.jpg",
+            "price": 1410,
+            "tier": 3
+        },
+        {
+            "id": "dc2c11",
+            "title": "Торт начальнику на день рождения мешок долларов",
+            "img": "./pages/corporate/tort-nachalniku-2.jpg",
+            "price": 1210,
+            "tier": 1
+        },
+        {
+            "id": "dc2c12",
+            "title": "Торт начальнику на день рождения",
+            "img": "./pages/corporate/tort-nachalniku-13.jpg",
+            "price": 1320,
+            "tier": 1
+        },
+        {
+            "id": "dc2c13",
+            "title": "Черный квадратный торт на корпоратив",
+            "img": "./pages/corporate/tort-na-korporativ-16.jpg",
+            "price": 1240,
+            "tier": 2
+        },
+        {
+            "id": "dc2c14",
+            "title": "Торт на корпоратив оригинальной формы с вкуснейшей начинкой",
+            "img": "./pages/corporate/tort-na-korporativ-10.jpg",
+            "price": 1280,
+            "tier": 3
+        },
+        {
+            "id": "dc2c15",
+            "title": "Двухъярусный торт с логотипом",
+            "img": "./pages/corporate/tort-s-logotipom.jpg",
+            "price": 1330,
+            "tier": 3
+        },
+        {
+            "id": "dc2c16",
+            "title": "Яркий торт на корпоратив",
+            "img": "./pages/corporate/tort-na-korporativ.jpg",
+            "price": 1410,
+            "tier": 2
+        },
+        {
+            "id": "dc2c17",
+            "title": "Торт с логотипом на корпоратив",
+            "img": "./pages/corporate/tort-s-logotipom-10.jpg",
+            "price": 1340,
+            "tier": 1
+        },
+        {
+            "id": "dc2c18",
+            "title": "Трехъярусный квадратный торт на корпоратив",
+            "img": "./pages/corporate/tort-na-korporativ-27.jpg",
+            "price": 1430,
+            "tier": 3
+        },
+        {
+            "id": "dc2c19",
+            "title": "Бело-золотой торт с маленькими цветочками на корпоратив",
+            "img": "./pages/corporate/tort-na-korporativ-19.jpg",
+            "price": 1400,
+            "tier": 3
+        },
+        {
+            "id": "dc2c20",
+            "title": "Торт на заказ с логотипом компании",
+            "img": "./pages/corporate/tort-s-logotipom-13.jpg",
+            "price": 1290,
+            "tier": 1
+        },
+        {
+            "id": "dc2c21",
+            "title": "Торт в сиреневых тонах на корпоратив",
+            "img": "./pages/corporate/tort-na-korporativ-12.jpg",
+            "price": 1380,
+            "tier": 3
+        },
+        {
+            "id": "dc2c22",
+            "title": "Торт на корпоратив в бирюзово-золотом цвете",
+            "img": "./pages/corporate/tort-na-korporativ-14.jpg",
+            "price": 1350,
+            "tier": 3
+        },
+        {
+            "id": "dc2c23",
+            "title": "Стильный черно-белый торт на корпоратив",
+            "img": "./pages/corporate/tort-na-korporativ-26.jpg",
+            "price": 1350,
+            "tier": 2
+        },
+        {
+            "id": "dc2c24",
+            "title": "Корпоративный торт с логотипом прямоугольный",
+            "img": "./pages/corporate/tort-s-logotipom-9.jpg",
+            "price": 1350,
+            "tier": 1
+        },
+        {
+            "id": "dc2c25",
+            "title": "Торт с логотипом Mini",
+            "img": "./pages/corporate/tort-s-logotipom-18.jpg",
+            "price": 1400,
+            "tier": 3
+        },
+        {
+            "id": "dc2c26",
+            "title": "Торт на корпоратив в черный горошек",
+            "img": "./pages/corporate/tort-na-korporativ-2.jpg",
+            "price": 1330,
+            "tier": 3
+        },
+        {
+            "id": "dc2c27",
+            "title": "Торт в полоску с бантом на корпоратив",
+            "img": "./pages/corporate/tort-na-korporativ-22.jpg",
+            "price": 1280,
+            "tier": 3
+        },
+        {
+            "id": "dc2c28",
+            "title": "Торт на корпоратив с картой мира",
+            "img": "./pages/corporate/tort-na-korporativ-1.jpg",
+            "price": 1350,
+            "tier": 2
+        },
+        {
+            "id": "dc2c28",
+            "title": "Торт на 10 лет компании",
+            "img": "./pages/corporate/tort-s-logotipom-16.jpg",
+            "price": 1350,
+            "tier": 2
+        },
+        {
+            "id": "dc2c30",
+            "title": "Разноцветный трехъярусный торт на корпоратив",
+            "img": "./pages/corporate/tort-na-korporativ-29.jpg",
+            "price": 1330,
+            "tier": 3
+        },
+        {
+            "id": "dc2c31",
+            "title": "Прямоугольный торт с логотипом",
+            "img": "./pages/corporate/tort-s-logotipom-6.jpg",
+            "price": 1390,
+            "tier": 1
+        },
+        {
+            "id": "dc2c32",
+            "title": "Корпоративный торт на праздник",
+            "img": "./pages/corporate/tort-s-logotipom-11.jpg",
+            "price": 1210,
+            "tier": 2
+        },
+        {
+            "id": "dc2c33",
+            "title": "Элегантный французский торт с красными маками и логотипом",
+            "img": "./pages/corporate/tort-s-logotipom-3.jpg",
+            "price": 1370,
+            "tier": 2
+        },
+        {
+            "id": "dc2c34",
+            "title": "Торт с логотипом на новый год",
+            "img": "./pages/corporate/tort-s-logotipom-8.jpg",
+            "price": 1330,
+            "tier": 2
+        },
+        {
+            "id": "dc2c35",
+            "title": "Квадратный желтый торт с узорами на корпоратив",
+            "img": "./pages/corporate/tort-na-korporativ-21.jpg",
+            "price": 1270,
+            "tier": 2
+        },
+        {
+            "id": "dc2c36",
+            "title": "Супершоколадный торт на корпоратив со сладостями",
+            "img": "./pages/corporate/tort-na-korporativ-13.jpg",
+            "price": 1350,
+            "tier": 3
+        },
+        {
+            "id": "dc2c37",
+            "title": "Торт с логотипом и фруктами",
+            "img": "./pages/corporate/tort-s-logotipom-28.jpg",
+            "price": 1420,
+            "tier": 1
+        },
+        {
+            "id": "dc2c38",
+            "title": "Торт на корпоратив в морском стиле",
+            "img": "./pages/corporate/tort-na-korporativ-4.jpg",
+            "price": 1360,
+            "tier": 3
+        },
+        {
+            "id": "dc2c39",
+            "title": "Бело-зеленый торт на корпоратив",
+            "img": "./pages/corporate/tort-na-korporativ-8.jpg",
+            "price": 1250,
+            "tier": 3
+        },
+        {
+            "id": "dc2c40",
+            "title": "Трехъярусный торт на корпоратив с разноцветным узором",
+            "img": "./pages/corporate/tort-na-korporativ-17.jpg",
+            "price": 1310,
+            "tier": 3
+        },
+        {
+            "id": "dc2c41",
+            "title": "Золотисто-синий торт с цветами на корпоратив",
+            "img": "./pages/corporate/tort-na-korporativ-9.jpg",
+            "price": 1440,
+            "tier": 3
+        },
+        {
+            "id": "dc2c42",
+            "title": "Торт с логотипом для корпоратива",
+            "img": "./pages/corporate/tort-s-logotipom-4.jpg",
+            "price": 1230,
+            "tier": 1
+        },
+        {
+            "id": "dc2c43",
+            "title": "Торт с логотипом и атласным бантом",
+            "img": "./pages/corporate/tort-s-logotipom-36.jpg",
+            "price": 1360,
+            "tier": 1
+        },
+        {
+            "id": "dc2c44",
+            "title": "Торт на корпоратив с необычным узором",
+            "img": "./pages/corporate/tort-na-korporativ-6.jpg",
+            "price": 1210,
+            "tier": 3
+        },
+        {
+            "id": "dc2c45",
+            "title": "Торт с логотипом спортивной команды",
+            "img": "./pages/corporate/tort-s-logotipom-12.jpg",
+            "price": 1360,
+            "tier": 2
+        },
+        {
+            "id": "dc2c46",
+            "title": "Необычный торт на корпоратив",
+            "img": "./pages/corporate/tort-na-korporativ-3.jpg",
+            "price": 1320,
+            "tier": 2
+        },
+        {
+            "id": "dc2c47",
+            "title": "Высокий белый торт на корпоратив с картой мира",
+            "img": "./pages/corporate/tort-na-korporativ-20.jpg",
+            "price": 1260,
+            "tier": 3
+        },
+        {
+            "id": "dc2c48",
+            "title": "Необычный торт на корпоратив с узорами",
+            "img": "./pages/corporate/tort-na-korporativ-30.jpg",
+            "price": 1410,
+            "tier": 3
+        },
+        {
+            "id": "dc2c49",
+            "title": "Разноцветный торт с цветком на корпоратив",
+            "img": "./pages/corporate/tort-na-korporativ-11.jpg",
+            "price": 1350,
+            "tier": 2
+        },
+        {
+            "id": "dc2c50",
+            "title": "Сиреневый торт с бантом на корпоратив",
+            "img": "./pages/corporate/tort-na-korporativ-23.jpg",
+            "price": 1400,
+            "tier": 3
+        },
+        {
+            "id": "dc2c51",
+            "title": "Торт с логотипом и белым бантом",
+            "img": "./pages/corporate/tort-s-logotipom-23.jpg",
+            "price": 1410,
+            "tier": 1
+        },
+        {
+            "id": "dc2c52",
+            "title": "Торт на корпоратив с пирамидами",
+            "img": "./pages/corporate/tort-na-korporativ-7.jpg",
+            "price": 1280,
+            "tier": 2
+        },
+        {
+            "id": "dc2c53",
+            "title": "Дорогой торт с логотипом и бутылкой виски с шоколадом",
+            "img": "./pages/corporate/tort-s-logotipom-43.jpg",
+            "price": 1340,
+            "tier": 1
+        },
+        {
+            "id": "dc2c54",
+            "title": "Торт руководителю на день рождения от коллектива",
+            "img": "./pages/corporate/tort-nachalniku-14.jpg",
+            "price": 1390,
+            "tier": 2
+        },
+        {
+            "id": "dc2c55",
+            "title": "Торт с логотипом и ягодным ассорти в шоколаде",
+            "img": "./pages/corporate/tort-s-logotipom-39.jpg",
+            "price": 1250,
+            "tier": 1
+        },
+        {
+            "id": "dc2c56",
+            "title": "Торт с логотипом Кремя и ягодным ассорти",
+            "img": "./pages/corporate/tort-s-logotipom-41.jpg",
+            "price": 1440,
+            "tier": 1
+        },
+        {
+            "id": "dc2c57",
+            "title": "Желтый торт с логотипом",
+            "img": "./pages/corporate/tort-s-logotipom-26.jpg",
+            "price": 1310,
+            "tier": 1
+        },
+        {
+            "id": "dc2c58",
+            "title": "Торт с логотипом и фотопечатью",
+            "img": "./pages/corporate/tort-s-logotipom-19.jpg",
+            "price": 1220,
+            "tier": 2
+        },
+        {
+            "id": "dc2c59",
+            "title": "Сине-белый торт с логотипом и фотопечатью",
+            "img": "./pages/corporate/tort-s-logotipom-35.jpg",
+            "price": 1340,
+            "tier": 1
+        },
+        {
+            "id": "dc2c60",
+            "title": "Торт с логотипом в черном цвете",
+            "img": "./pages/corporate/tort-s-logotipom-24.jpg",
+            "price": 1220,
+            "tier": 1
+        }
+    ]
+}

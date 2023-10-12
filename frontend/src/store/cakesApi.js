@@ -7,14 +7,11 @@ export const cakesApi = createApi({
         getCards: build.query({
             query: (str) => `?page=main&query=cards&collection=${str}`
         }),
+        getAllProducts: build.query({
+            query: () => `?page=main&query=products`
+        }),
         getmainBestCakes: build.query({
             query: (str) => `?page=main&query=bests&collections=${str}`
-        }),
-        getPageBirthday: build.query({
-            query: (str) => `?page=birthday`
-        }),
-        getPageChildren: build.query({
-            query: (str) => `?page=children`
         }),
         getPageForCategory: build.query({
             query: (str) => `?page=${str}`
@@ -24,7 +21,6 @@ export const cakesApi = createApi({
 
 export const {
     useGetCardsQuery,
+    useGetAllProductsQuery,
     useGetmainBestCakesQuery,
-    useGetPageBirthdayQuery,
-    useGetPageChildrenQuery,
     useGetPageForCategoryQuery } = cakesApi;
