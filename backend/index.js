@@ -38,9 +38,6 @@ app.get('/api', (req, res) => {
     }
     else if (urlReques.query.page === 'wedding' || 'children' || 'anniversary' || 'birthday' || 'bento' || 'corporate') {
         t6(res, urlReques.query.page)
-    }
-    else if (urlReques.query.mutation === 'post') {
-        console.log('work!!!!!!')
     } else {
         res.json({
             message: "Not Found"
@@ -50,11 +47,9 @@ app.get('/api', (req, res) => {
 
 app.post('/api', (req, res) => {
     let urlReques = url.parse(req.url, true)
-    // console.log(urlReques.query)
     if (urlReques.query.update === 'true') {
         updateCard(req, res, urlReques.query)
     }
-
 
 })
 
@@ -65,13 +60,13 @@ function t1(fileName, res) {
 }
 
 function t2(fileName, res) {
-    console.log(fileName)
+    // console.log(fileName)
     const { data } = JSON.parse(fs.readFileSync(`./db/main/best/${fileName}.json`, 'utf8'))
     res.json(data)
 }
 
 function t3(res) {
-    console.log('t3')
+    // console.log('t3')
     let arr = ['anniversary', 'bento', 'birthday', 'children', 'corporate', 'festive', 'wedding']
     let result = []
     let accum = []
@@ -91,6 +86,6 @@ function t4(dirName) {
 function t6(res, dirName) {
     const { data } = JSON.parse(fs.readFileSync(`./db/${dirName}/catalog.json`, 'utf8'))
     data.map(item => item.dirName = dirName)
-    console.log(data)
+    // console.log(data)
     res.json(data)
 }

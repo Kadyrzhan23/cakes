@@ -1,1 +1,424 @@
-{"data":[{"id":"dac1","title":"Торт свадебный с кольцами","img":"./pages/wedding/svadebnyj-tort-s-zhivymi-cvetami-38.jpg","price":"1350","tier":3},{"id":"dac2","title":"Свадебный торт с пышными живыми цветами","img":"./pages/wedding/svadebnyj-tort-s-zhivymi-cvetami-83.jpg","price":"1100","tier":2},{"id":"dac3","title":"Белый двухъярусный свадебный торт с живыми цветами","img":"./pages/wedding/svadebnyj-tort-s-zhivymi-cvetami-71.jpg","price":1410,"tier":2},{"id":"dac4","title":"Трехъярусный голый торт с букетом розовых живых цветов","img":"./pages/wedding/svadebnyj-tort-s-zhivymi-cvetami-58.jpg","price":1420,"tier":3},{"id":"dac5","title":"Свадебный торт голый с живыми цветами","img":"./pages/wedding/svadebnyj-tort-s-zhivymi-cvetami-61.jpg","price":1240,"tier":3},{"id":"dac6","title":"Свадебный торт с нежно-розовыми живыми цветами","img":"./pages/wedding/svadebnyj-tort-s-zhivymi-cvetami-59.jpg","price":1330,"tier":3},{"id":"dac7","title":"Трехъярусный квадратный свадебный торт с ягодами","img":"./pages/wedding/svadebnyj-tort-kvadratnyj-6.jpg","price":1290,"tier":3},{"id":"dac8","title":"Свадебный торт квадратной формы","img":"./pages/wedding/svadebnyj-tort-kvadratnyj-4.jpg","price":1410,"tier":2},{"id":"dac9","title":"Свадебный торт с кольцами и розами","img":"./pages/wedding/tort-svadebnyj-s-kolcami-2.jpg","price":1450,"tier":1},{"id":"dac10","title":"Торт свадебный с кольцами и лебедями","img":"./pages/wedding/tort-svadebnyj-s-kolcami-8.jpg","price":1480,"tier":1},{"id":"dac11","title":"Торт свадебный с кольцами и розами","img":"./pages/wedding/tort-svadebnyj-s-kolcami-5.jpg","price":1280,"tier":2},{"id":"dac12","title":"Необычный торт свадебный с кольцами","img":"./pages/wedding/tort-svadebnyj-s-kolcami-10.jpg","price":1240,"tier":1},{"id":"dac13","title":"Торт свадебный с кольцами и белыми орхидеями из мастики","img":"./pages/wedding/tort-svadebnyj-s-kolcami-11.jpg","price":1320,"tier":2},{"id":"dac14","title":"Торт свадебный с кольцами","img":"./pages/wedding/tort-svadebnyj-s-kolcami.jpg","price":"1350","tier":2},{"id":"dac15","title":"Нежный торт свадебный с кольцами","img":"./pages/wedding/tort-svadebnyj-s-kolcami-3.jpg","price":1240,"tier":2},{"id":"dac16","title":"Мраморный свадебный торт с орхидеями","img":"./pages/wedding/svadebnyj-tort-orhideja-12.jpg","price":1360,"tier":3},{"id":"dac17","title":"Свадебный торт в розовых тонах с цветком и кружевом","img":"./pages/wedding/svadebnyj-tort-s-kruzhevami-36.jpg","price":1360,"tier":3},{"id":"dac18","title":"Бело-золотой свадебный торт с кружевами и большим цветком","img":"./pages/wedding/svadebnyj-tort-s-kruzhevami-28.jpg","price":1280,"tier":3},{"id":"dac19","title":"Свадебный торт с кружевами и белым цветком","img":"./pages/wedding/svadebnyj-tort-s-kruzhevami-46.jpg","price":1340,"tier":3},{"id":"dac20","title":"Серебряно-белый свадебный торт с кружевами","img":"./pages/wedding/svadebnyj-tort-s-kruzhevami-30.jpg","price":1340,"tier":3},{"id":"dac21","title":"Нежно-розовый трехъярусный свадебный торт с кружевами","img":"./pages/wedding/svadebnyj-tort-s-kruzhevami-37.jpg","price":1380,"tier":3},{"id":"dac22","title":"Свадебный торт с кружевом и белыми цветами","img":"./pages/wedding/svadebnyj-tort-s-kruzhevami-48.jpg","price":1300,"tier":3},{"id":"dac23","title":"Розовый свадебный торт с кружевами и бусинами и белым цветком","img":"./pages/wedding/svadebnyj-tort-s-kruzhevami-26.jpg","price":1290,"tier":2},{"id":"dac24","title":"Трехъярусный квадратный свадебный торт с кружевами","img":"./pages/wedding/svadebnyj-tort-s-kruzhevami-33.jpg","price":1290,"tier":3},{"id":"dac25","title":"Розово-серый высокий свадебный торт с кружевами","img":"./pages/wedding/svadebnyj-tort-s-kruzhevami-35.jpg","price":1480,"tier":3},{"id":"dac26","title":"Бело-золотой маленький свадебный торт с бордовым пионом и сердцем","img":"./pages/wedding/svadebnyj-tort-malenkij-63.jpg","price":1220,"tier":2},{"id":"dac27","title":"Двухъярусный свадебный торт с кружевом","img":"./pages/wedding/svadebnyj-tort-s-kruzhevami-49.jpg","price":1310,"tier":2},{"id":"dac28","title":"Сиреневый свадебный торт с маленькими цветами","img":"./pages/wedding/svadebnyj-tort-sirenevyj.jpg","price":1320,"tier":2},{"id":"dac29","title":"Свадебный двухъярусный торт с кружевами","img":"./pages/wedding/svadebnyj-tort-s-kruzhevami.jpg","price":1340,"tier":2},{"id":"dac30","title":"Свадебный торт Гэтсби двухъярусный с белым пером и золотом","img":"./pages/wedding/svadebnyj-tort-gjetsbi-6.jpg","price":1350,"tier":2},{"id":"dac31","title":"Торт на хрустальную свадьбу с ажурными бокалами","img":"./pages/wedding/tort-na-hrustalnju-svadbu-2.jpg","price":1320,"tier":1},{"id":"dac32","title":"Блестящий торт на коралловую свадьбу с жемчугом","img":"./pages/wedding/tort-na-korallovuju-svadbu-7.jpg","price":1430,"tier":1},{"id":"dac33","title":"Красивейший торт на серебряную свадьбу с кольцами","img":"./pages/wedding/tort-na-serebrjanuju-svadbu-4.jpg","price":1390,"tier":1},{"id":"dac34","title":"Торт на серебряную свадьбу с белыми розами и цифрой","img":"./pages/wedding/tort-na-lnianuiu-svadbu-s-belymi-rozami-i-tsifroi.png","price":1230,"tier":1},{"id":"dac35","title":"Прекрасный торт на серебряную свадьбу с лебедями","img":"./pages/wedding/tort-na-serebrjanuju-svadbu-1.jpg","price":1430,"tier":1},{"id":"dac36","title":"Милый торт на бумажную свадьбу","img":"./pages/wedding/tort-na-bumazhnuju-svadbu-4.jpg","price":1250,"tier":1},{"id":"dac37","title":"Розовый торт на жемчужную свадьбу","img":"./pages/wedding/tort-na-zhemchuzhnuju-svadbu-7.jpg","price":1300,"tier":1},{"id":"dac38","title":"Чудесный торт на жемчужную свадьбу с надписью","img":"./pages/wedding/tort-na-zhemchuzhnuju-svadbu-1.jpg","price":1350,"tier":1},{"id":"dac39","title":"Торт на жемчужную свадьбу в виде сердца","img":"./pages/wedding/tort-na-zhemchuzhnuyu-svadbu-8.jpg","price":1220,"tier":1},{"id":"dac40","title":"Торт на жемчужную свадьбу с песком и ракушками","img":"./pages/wedding/tort-na-zhemchuzhnuju-svadbu-3.jpg","price":1360,"tier":1},{"id":"dac41","title":"Прекрасный торт на жемчужную свадьбу","img":"./pages/wedding/tort-na-zhemchuzhnuju-svadbu-5.jpg","price":1280,"tier":1},{"id":"dac42","title":"Торт на жемчужную свадьбу","img":"./pages/wedding/tort-na-zhemchuzhnuju-svadbu.jpg","price":1330,"tier":1},{"id":"dac43","title":"Белый свадебный торт с розовыми пионами","img":"./pages/wedding/svadebnyj-tort-piony-19.jpg","price":1280,"tier":2},{"id":"dac44","title":"Двухъярусный свадебный торт белого цвета с малиной","img":"./pages/wedding/svadebnyj-tort-s-jagodami-23.jpg","price":1420,"tier":2},{"id":"dac45","title":"Свадебный торт омбре красный с белым","img":"./pages/wedding/svadebnyj-tort-ombre-1.jpg","price":1320,"tier":3},{"id":"dac46","title":"Торт на серебряную свадьбу","img":"./pages/wedding/tort-na-serebrjanuju-svadbu.jpg","price":1350,"tier":3},{"id":"dac47","title":"Нежно-розовый свадебный торт с рюшами и большими цветами","img":"./pages/wedding/svadebnyj-tort-rozovyj-14.jpg","price":1220,"tier":3},{"id":"dac48","title":"Бело-розовый свадебный торт с цветком","img":"./pages/wedding/svadebnyj-tort-rozovyj-17.jpeg","price":1310,"tier":3},{"id":"dac49","title":"Розовый свадебный торт с сердечком","img":"./pages/wedding/svadebnyj-tort-rozovyj-28.jpg","price":1340,"tier":3},{"id":"dac50","title":"Розовый свадебный торт с кремовыми цветами и листьями","img":"./pages/wedding/svadebnyj-tort-rozovyj-20.jpg","price":1340,"tier":3},{"id":"dac51","title":"Высокий розовый свадебный торт украшенный цветами и бантом","img":"./pages/wedding/svadebnyj-tort-rozovyj-9.jpg","price":1410,"tier":3},{"id":"dac52","title":"Нежный полосатый свадебный торт в розовых тонах","img":"./pages/wedding/svadebnyj-tort-rozovyj-6.jpg","price":1280,"tier":3},{"id":"dac53","title":"Свадебный торт в бирюзовом цвете с кремовыми цветами","img":"./pages/wedding/svadebnyj-tort-birjuzovyj-10.jpg","price":1340,"tier":3},{"id":"dac54","title":"Торт на свадьбу в бирюзовом цвете с орхидеями","img":"./pages/wedding/svadebnyj-tort-birjuzovyj-1.jpg","price":1330,"tier":3},{"id":"dac55","title":"Торт свадебный в бирюзовом цвете","img":"./pages/wedding/svadebnyj-tort-birjuzovyj-14.jpg","price":1420,"tier":3},{"id":"dac56","title":"Красивый свадебный торт в бирюзовом цвете с рюшами","img":"./pages/wedding/svadebnyj-tort-birjuzovyj-2.jpg","price":0,"tier":3},{"id":"dac57","title":"Бирюзовый свадебный торт с рюшами и красными цветами","img":"./pages/wedding/svadebnyj-tort-birjuzovyj-3.jpg","price":1420,"tier":3},{"id":"dac58","title":"Элегантный свадебный торт в бирюзовом цвете","img":"./pages/wedding/svadebnyj-tort-biryuzovyj-16.jpg","price":1460,"tier":3},{"id":"dac59","title":"Свадебный торт в бирюзовом цвете с кружевами","img":"./pages/wedding/svadebnyj-tort-birjuzovyj-15.jpg","price":1420,"tier":3},{"id":"dac60","title":"Белый свадебный торт украшенный бирюзовыми цветами","img":"./pages/wedding/svadebnyj-tort-birjuzovyj.jpg","price":1450,"tier":3}]}
+{
+    "data": [
+        {
+            "id": "dac1",
+            "title": "Торт свадебный с кольцами",
+            "img": "./pages/wedding/svadebnyj-tort-s-zhivymi-cvetami-38.jpg",
+            "price": "1350",
+            "tier": 3
+        },
+        {
+            "id": "dac2",
+            "title": "Свадебный торт с пышными живыми цветами",
+            "img": "./pages/wedding/svadebnyj-tort-s-zhivymi-cvetami-83.jpg",
+            "price": "1120",
+            "tier": 2
+        },
+        {
+            "id": "dac3",
+            "title": "Белый двухъярусный свадебный торт с живыми цветами",
+            "img": "./pages/wedding/svadebnyj-tort-s-zhivymi-cvetami-71.jpg",
+            "price": 1410,
+            "tier": 2
+        },
+        {
+            "id": "dac4",
+            "title": "Трехъярусный голый торт с букетом розовых живых цветов",
+            "img": "./pages/wedding/svadebnyj-tort-s-zhivymi-cvetami-58.jpg",
+            "price": 1420,
+            "tier": 3
+        },
+        {
+            "id": "dac5",
+            "title": "Свадебный торт голый с живыми цветами",
+            "img": "./pages/wedding/svadebnyj-tort-s-zhivymi-cvetami-61.jpg",
+            "price": 1240,
+            "tier": 3
+        },
+        {
+            "id": "dac6",
+            "title": "Свадебный торт с нежно-розовыми живыми цветами",
+            "img": "./pages/wedding/svadebnyj-tort-s-zhivymi-cvetami-59.jpg",
+            "price": 1330,
+            "tier": 3
+        },
+        {
+            "id": "dac7",
+            "title": "Трехъярусный квадратный свадебный торт с ягодами",
+            "img": "./pages/wedding/svadebnyj-tort-kvadratnyj-6.jpg",
+            "price": 1290,
+            "tier": 3
+        },
+        {
+            "id": "dac8",
+            "title": "Свадебный торт квадратной формы",
+            "img": "./pages/wedding/svadebnyj-tort-kvadratnyj-4.jpg",
+            "price": 1410,
+            "tier": 2
+        },
+        {
+            "id": "dac9",
+            "title": "Свадебный торт с кольцами и розами",
+            "img": "./pages/wedding/tort-svadebnyj-s-kolcami-2.jpg",
+            "price": 1450,
+            "tier": 1
+        },
+        {
+            "id": "dac10",
+            "title": "Торт свадебный с кольцами и лебедями",
+            "img": "./pages/wedding/tort-svadebnyj-s-kolcami-8.jpg",
+            "price": 1480,
+            "tier": 1
+        },
+        {
+            "id": "dac11",
+            "title": "Торт свадебный с кольцами и розами",
+            "img": "./pages/wedding/tort-svadebnyj-s-kolcami-5.jpg",
+            "price": 1280,
+            "tier": 2
+        },
+        {
+            "id": "dac12",
+            "title": "Необычный торт свадебный с кольцами",
+            "img": "./pages/wedding/tort-svadebnyj-s-kolcami-10.jpg",
+            "price": 1240,
+            "tier": 1
+        },
+        {
+            "id": "dac13",
+            "title": "Торт свадебный с кольцами и белыми орхидеями из мастики",
+            "img": "./pages/wedding/tort-svadebnyj-s-kolcami-11.jpg",
+            "price": 1320,
+            "tier": 2
+        },
+        {
+            "id": "dac14",
+            "title": "Торт свадебный с кольцами",
+            "img": "./pages/wedding/tort-svadebnyj-s-kolcami.jpg",
+            "price": "1350",
+            "tier": 2
+        },
+        {
+            "id": "dac15",
+            "title": "Нежный торт свадебный с кольцами",
+            "img": "./pages/wedding/tort-svadebnyj-s-kolcami-3.jpg",
+            "price": 1240,
+            "tier": 2
+        },
+        {
+            "id": "dac16",
+            "title": "Мраморный свадебный торт с орхидеями",
+            "img": "./pages/wedding/svadebnyj-tort-orhideja-12.jpg",
+            "price": 1360,
+            "tier": 3
+        },
+        {
+            "id": "dac17",
+            "title": "Свадебный торт в розовых тонах с цветком и кружевом",
+            "img": "./pages/wedding/svadebnyj-tort-s-kruzhevami-36.jpg",
+            "price": 1360,
+            "tier": 3
+        },
+        {
+            "id": "dac18",
+            "title": "Бело-золотой свадебный торт с кружевами и большим цветком",
+            "img": "./pages/wedding/svadebnyj-tort-s-kruzhevami-28.jpg",
+            "price": 1280,
+            "tier": 3
+        },
+        {
+            "id": "dac19",
+            "title": "Свадебный торт с кружевами и белым цветком",
+            "img": "./pages/wedding/svadebnyj-tort-s-kruzhevami-46.jpg",
+            "price": 1340,
+            "tier": 3
+        },
+        {
+            "id": "dac20",
+            "title": "Серебряно-белый свадебный торт с кружевами",
+            "img": "./pages/wedding/svadebnyj-tort-s-kruzhevami-30.jpg",
+            "price": 1340,
+            "tier": 3
+        },
+        {
+            "id": "dac21",
+            "title": "Нежно-розовый трехъярусный свадебный торт с кружевами",
+            "img": "./pages/wedding/svadebnyj-tort-s-kruzhevami-37.jpg",
+            "price": 1380,
+            "tier": 3
+        },
+        {
+            "id": "dac22",
+            "title": "Свадебный торт с кружевом и белыми цветами",
+            "img": "./pages/wedding/svadebnyj-tort-s-kruzhevami-48.jpg",
+            "price": 1300,
+            "tier": 3
+        },
+        {
+            "id": "dac23",
+            "title": "Розовый свадебный торт с кружевами и бусинами и белым цветком",
+            "img": "./pages/wedding/svadebnyj-tort-s-kruzhevami-26.jpg",
+            "price": 1290,
+            "tier": 2
+        },
+        {
+            "id": "dac24",
+            "title": "Трехъярусный квадратный свадебный торт с кружевами",
+            "img": "./pages/wedding/svadebnyj-tort-s-kruzhevami-33.jpg",
+            "price": 1290,
+            "tier": 3
+        },
+        {
+            "id": "dac25",
+            "title": "Розово-серый высокий свадебный торт с кружевами",
+            "img": "./pages/wedding/svadebnyj-tort-s-kruzhevami-35.jpg",
+            "price": 1480,
+            "tier": 3
+        },
+        {
+            "id": "dac26",
+            "title": "Бело-золотой маленький свадебный торт с бордовым пионом и сердцем",
+            "img": "./pages/wedding/svadebnyj-tort-malenkij-63.jpg",
+            "price": 1220,
+            "tier": 2
+        },
+        {
+            "id": "dac27",
+            "title": "Двухъярусный свадебный торт с кружевом",
+            "img": "./pages/wedding/svadebnyj-tort-s-kruzhevami-49.jpg",
+            "price": 1310,
+            "tier": 2
+        },
+        {
+            "id": "dac28",
+            "title": "Сиреневый свадебный торт с маленькими цветами",
+            "img": "./pages/wedding/svadebnyj-tort-sirenevyj.jpg",
+            "price": 1320,
+            "tier": 2
+        },
+        {
+            "id": "dac29",
+            "title": "Свадебный двухъярусный торт с кружевами",
+            "img": "./pages/wedding/svadebnyj-tort-s-kruzhevami.jpg",
+            "price": 1340,
+            "tier": 2
+        },
+        {
+            "id": "dac30",
+            "title": "Свадебный торт Гэтсби двухъярусный с белым пером и золотом",
+            "img": "./pages/wedding/svadebnyj-tort-gjetsbi-6.jpg",
+            "price": 1350,
+            "tier": 2
+        },
+        {
+            "id": "dac31",
+            "title": "Торт на хрустальную свадьбу с ажурными бокалами",
+            "img": "./pages/wedding/tort-na-hrustalnju-svadbu-2.jpg",
+            "price": 1320,
+            "tier": 1
+        },
+        {
+            "id": "dac32",
+            "title": "Блестящий торт на коралловую свадьбу с жемчугом",
+            "img": "./pages/wedding/tort-na-korallovuju-svadbu-7.jpg",
+            "price": 1430,
+            "tier": 1
+        },
+        {
+            "id": "dac33",
+            "title": "Красивейший торт на серебряную свадьбу с кольцами",
+            "img": "./pages/wedding/tort-na-serebrjanuju-svadbu-4.jpg",
+            "price": 1390,
+            "tier": 1
+        },
+        {
+            "id": "dac34",
+            "title": "Торт на серебряную свадьбу с белыми розами и цифрой",
+            "img": "./pages/wedding/tort-na-lnianuiu-svadbu-s-belymi-rozami-i-tsifroi.png",
+            "price": 1230,
+            "tier": 1
+        },
+        {
+            "id": "dac35",
+            "title": "Прекрасный торт на серебряную свадьбу с лебедями",
+            "img": "./pages/wedding/tort-na-serebrjanuju-svadbu-1.jpg",
+            "price": 1430,
+            "tier": 1
+        },
+        {
+            "id": "dac36",
+            "title": "Милый торт на бумажную свадьбу",
+            "img": "./pages/wedding/tort-na-bumazhnuju-svadbu-4.jpg",
+            "price": 1250,
+            "tier": 1
+        },
+        {
+            "id": "dac37",
+            "title": "Розовый торт на жемчужную свадьбу",
+            "img": "./pages/wedding/tort-na-zhemchuzhnuju-svadbu-7.jpg",
+            "price": 1300,
+            "tier": 1
+        },
+        {
+            "id": "dac38",
+            "title": "Чудесный торт на жемчужную свадьбу с надписью",
+            "img": "./pages/wedding/tort-na-zhemchuzhnuju-svadbu-1.jpg",
+            "price": 1350,
+            "tier": 1
+        },
+        {
+            "id": "dac39",
+            "title": "Торт на жемчужную свадьбу в виде сердца",
+            "img": "./pages/wedding/tort-na-zhemchuzhnuyu-svadbu-8.jpg",
+            "price": 1220,
+            "tier": 1
+        },
+        {
+            "id": "dac40",
+            "title": "Торт на жемчужную свадьбу с песком и ракушками",
+            "img": "./pages/wedding/tort-na-zhemchuzhnuju-svadbu-3.jpg",
+            "price": 1360,
+            "tier": 1
+        },
+        {
+            "id": "dac41",
+            "title": "Прекрасный торт на жемчужную свадьбу",
+            "img": "./pages/wedding/tort-na-zhemchuzhnuju-svadbu-5.jpg",
+            "price": 1280,
+            "tier": 1
+        },
+        {
+            "id": "dac42",
+            "title": "Торт на жемчужную свадьбу",
+            "img": "./pages/wedding/tort-na-zhemchuzhnuju-svadbu.jpg",
+            "price": 1330,
+            "tier": 1
+        },
+        {
+            "id": "dac43",
+            "title": "Белый свадебный торт с розовыми пионами",
+            "img": "./pages/wedding/svadebnyj-tort-piony-19.jpg",
+            "price": 1280,
+            "tier": 2
+        },
+        {
+            "id": "dac44",
+            "title": "Двухъярусный свадебный торт белого цвета с малиной",
+            "img": "./pages/wedding/svadebnyj-tort-s-jagodami-23.jpg",
+            "price": 1420,
+            "tier": 2
+        },
+        {
+            "id": "dac45",
+            "title": "Свадебный торт омбре красный с белым",
+            "img": "./pages/wedding/svadebnyj-tort-ombre-1.jpg",
+            "price": 1320,
+            "tier": 3
+        },
+        {
+            "id": "dac46",
+            "title": "Торт на серебряную свадьбу",
+            "img": "./pages/wedding/tort-na-serebrjanuju-svadbu.jpg",
+            "price": 1350,
+            "tier": 3
+        },
+        {
+            "id": "dac47",
+            "title": "Нежно-розовый свадебный торт с рюшами и большими цветами",
+            "img": "./pages/wedding/svadebnyj-tort-rozovyj-14.jpg",
+            "price": 1220,
+            "tier": 3
+        },
+        {
+            "id": "dac48",
+            "title": "Бело-розовый свадебный торт с цветком",
+            "img": "./pages/wedding/svadebnyj-tort-rozovyj-17.jpeg",
+            "price": 1310,
+            "tier": 3
+        },
+        {
+            "id": "dac49",
+            "title": "Розовый свадебный торт с сердечком",
+            "img": "./pages/wedding/svadebnyj-tort-rozovyj-28.jpg",
+            "price": 1340,
+            "tier": 3
+        },
+        {
+            "id": "dac50",
+            "title": "Розовый свадебный торт с кремовыми цветами и листьями",
+            "img": "./pages/wedding/svadebnyj-tort-rozovyj-20.jpg",
+            "price": 1340,
+            "tier": 3
+        },
+        {
+            "id": "dac51",
+            "title": "Высокий розовый свадебный торт украшенный цветами и бантом",
+            "img": "./pages/wedding/svadebnyj-tort-rozovyj-9.jpg",
+            "price": 1410,
+            "tier": 3
+        },
+        {
+            "id": "dac52",
+            "title": "Нежный полосатый свадебный торт в розовых тонах",
+            "img": "./pages/wedding/svadebnyj-tort-rozovyj-6.jpg",
+            "price": 1280,
+            "tier": 3
+        },
+        {
+            "id": "dac53",
+            "title": "Свадебный торт в бирюзовом цвете с кремовыми цветами",
+            "img": "./pages/wedding/svadebnyj-tort-birjuzovyj-10.jpg",
+            "price": 1340,
+            "tier": 3
+        },
+        {
+            "id": "dac54",
+            "title": "Торт на свадьбу в бирюзовом цвете с орхидеями",
+            "img": "./pages/wedding/svadebnyj-tort-birjuzovyj-1.jpg",
+            "price": 1330,
+            "tier": 3
+        },
+        {
+            "id": "dac55",
+            "title": "Торт свадебный в бирюзовом цвете",
+            "img": "./pages/wedding/svadebnyj-tort-birjuzovyj-14.jpg",
+            "price": 1420,
+            "tier": 3
+        },
+        {
+            "id": "dac56",
+            "title": "Красивый свадебный торт в бирюзовом цвете с рюшами",
+            "img": "./pages/wedding/svadebnyj-tort-birjuzovyj-2.jpg",
+            "price": 0,
+            "tier": 3
+        },
+        {
+            "id": "dac57",
+            "title": "Бирюзовый свадебный торт с рюшами и красными цветами",
+            "img": "./pages/wedding/svadebnyj-tort-birjuzovyj-3.jpg",
+            "price": 1420,
+            "tier": 3
+        },
+        {
+            "id": "dac58",
+            "title": "Элегантный свадебный торт в бирюзовом цвете",
+            "img": "./pages/wedding/svadebnyj-tort-biryuzovyj-16.jpg",
+            "price": 1460,
+            "tier": 3
+        },
+        {
+            "id": "dac59",
+            "title": "Свадебный торт в бирюзовом цвете с кружевами",
+            "img": "./pages/wedding/svadebnyj-tort-birjuzovyj-15.jpg",
+            "price": 1420,
+            "tier": 3
+        },
+        {
+            "id": "dac60",
+            "title": "Белый свадебный торт украшенный бирюзовыми цветами",
+            "img": "./pages/wedding/svadebnyj-tort-birjuzovyj.jpg",
+            "price": 1450,
+            "tier": 3
+        }
+    ]
+}
