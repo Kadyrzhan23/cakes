@@ -2,13 +2,14 @@ import React, { useState } from 'react'
 import styles from './PopupEditFormCard.module.css'
 import { useDispatch, useSelector } from 'react-redux'
 import { editSelectedCardId, popupPositionTopEdit } from '../../store/favoriteSlice'
-export default function PopupFormEditCard() {
+import { useEffect } from 'react'
+export default function PopupFormEditCard({data}) {
     const top = useSelector(state => state.favorites.popupPositionTop)
     const dirName = useSelector(state => state.favorites.dirName)
     const selectedId = useSelector(state => state.favorites.selectedCardId)
     const [selectedFile, setSelectedFile] = useState(null)
     const dispatch = useDispatch()
-
+    let result = []
     function handleChange(e) {
         console.log(e.target.files)
         setSelectedFile(e.target.files[0])
@@ -25,15 +26,17 @@ export default function PopupFormEditCard() {
         console.log({title:e.target.title.value,price:e.target.price.value,id:selectedId})
         const res = await fetch(`/api?update=true&post=${selectedFile !== null ? 'uploads' : null}&dirname=${dirName}&id=${selectedId}&price=${price}&title=${title}`,
             { method: 'POST', body: formData })
-        const data = await res.json()
-        console.log(data)
-
+        result = await res.json()
+        console.log(result)
+        // window.forceUpdate()
+        window.location. reload()
         // Обнуления
         dispatch(editSelectedCardId(null))
         setSelectedFile(null)
         e.target.title.value = ''
         e.target.price.value = ''
     }
+
     return (
         <div className={styles.wrapper} style={{ top: top }}>
             <div className={styles.btn_close_wrapper}>

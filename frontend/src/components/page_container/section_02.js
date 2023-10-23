@@ -48,7 +48,7 @@ const Section02 = ({ data, isSuccess }) => {
                     }) : <h2>Loading...</h2>
                 }
             </div>
-            <PopupFormEditCard/>
+            <PopupFormEditCard data={data}/>
         </div>
     );
 }
