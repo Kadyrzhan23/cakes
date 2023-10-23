@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import styles from './Section_02.module.css'
 import Card from '../Card/Card'
 import { useLocation } from 'react-router-dom';
+import PopupFormEditCard from '../EditCard/PopupFormEditCard';
 const Section02 = ({ data, isSuccess }) => {
     // const { data, isSuccess } = useGetPageBirthdayQuery()
     const { pathname } = useLocation()
@@ -35,11 +36,19 @@ const Section02 = ({ data, isSuccess }) => {
                 {
                     isSuccess ? res.map((item, index) => {
                         return (
-                            <Card title={item.title} price={item.price} id={item.id} img={item.img} key={index} />
+                            <Card
+                                title={item.title}
+                                price={item.price}
+                                id={item.id}
+                                img={item.img}
+                                key={index}
+                                dirName={item.dirName}
+                            />
                         )
                     }) : <h2>Loading...</h2>
                 }
             </div>
+            <PopupFormEditCard/>
         </div>
     );
 }

@@ -8,7 +8,7 @@ const BentoCakes = () => {
     const background = `http://localhost:3000/static/media/cupcake.6c623111d616a158022d.jpg`
     const title = `Бенто-торты`
     const { data, isSuccess } = useGetPageForCategoryQuery('bento')
-    
+    console.log(data)
     return (
         <div className={styles.wrapper}>
             <Section01
@@ -17,7 +17,7 @@ const BentoCakes = () => {
             <Section02
             data={data}
             isSuccess={isSuccess}/>
-            <PopupFormEditCard/>
+            {/* <PopupFormEditCard/> */}
         </div>
     );
 }
