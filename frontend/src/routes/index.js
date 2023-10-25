@@ -25,7 +25,7 @@ export default createBrowserRouter(createRoutesFromElements(
             <Route path="children" element={<ChildrenCakes />} />
             <Route path="birthday" element={<BirthdayCakes />} />
             <Route path="annivarsary" element={<AnniversaryCakes />} />
-            <Route path="cake" element={<Cake/>}/>
+            <Route path="cake/:id" element={<Cake/>}/>
             <Route path="video-tortov" element={<Video/>}/>
             <Route path="podborki" element={<Podborki/>}/>
             <Route path="sale" element={<Sale/>}/>

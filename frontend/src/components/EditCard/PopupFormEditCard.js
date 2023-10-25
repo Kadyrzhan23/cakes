@@ -27,7 +27,6 @@ export default function PopupFormEditCard({data}) {
         const res = await fetch(`/api?update=true&post=${selectedFile !== null ? 'uploads' : null}&dirname=${dirName}&id=${selectedId}&price=${price}&title=${title}`,
             { method: 'POST', body: formData })
         result = await res.json()
-        console.log(result)
         // window.forceUpdate()
         window.location. reload()
         // Обнуления

@@ -24,6 +24,8 @@ const updateCard = (req, res, query) => {
                 }
             })
         })
+        fs.unlink(`.././frontend/public/${temp}`,err => err && console.log(err))
+        console.log('unlinkeddd') // нужно поработать над удалением
         // res.json({
         //     fileName: file.name,
         //     filePath: `uploads/${newFileName}`

@@ -33,22 +33,26 @@ const Section02 = ({ data, isSuccess }) => {
                 </label>
             </div>
             <div className={styles.card_wrapper}>
-                {
-                    isSuccess ? res.map((item, index) => {
-                        return (
-                            <Card
-                                title={item.title}
-                                price={item.price}
-                                id={item.id}
-                                img={item.img}
-                                key={index}
-                                dirName={item.dirName}
-                            />
-                        )
-                    }) : <h2>Loading...</h2>
-                }
+                {/* {
+                    data.length > 0 ? <> */}
+                        {
+                            isSuccess ? res.map((item, index) => {
+                                return (
+                                    <Card
+                                        title={item.title}
+                                        price={item.price}
+                                        id={item.id}
+                                        img={item.img}
+                                        key={index}
+                                        dirName={item.dirName}
+                                    />
+                                )
+                            }) : <h2>Loading...</h2>
+                        }
+                    {/* </> : <h2>Выберите несколько тортов</h2>
+                } */}
             </div>
-            <PopupFormEditCard data={data}/>
+            <PopupFormEditCard data={data} />
         </div>
     );
 }
