@@ -74,7 +74,7 @@ background: linear-gradient(81deg, rgba(231,214,222,1) 48%, rgba(221,199,212,1) 
     background-repeat: no-repeat;
     background-size: 100% 100%;
     display: flex;
-    justify-content: end;
+    justify-content: flex-end;
 }
 
 .left_top_in {
@@ -128,7 +128,7 @@ background: linear-gradient(81deg, rgba(231,214,222,1) 48%, rgba(221,199,212,1) 
     background-color: #F0F1F5;
     background-image: url('../../../.././public/pages/main/top/top-selection.jpg');
     display: flex;
-    justify-content: end;
+    justify-content: flex-end;
 }
 
 .left_bottom_in {

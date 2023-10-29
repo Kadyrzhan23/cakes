@@ -23,7 +23,7 @@ const Header = () => {
             </div>
             <div className={styles.top}>
                 <p className={styles.top_text}>При заказе до 500 000cум - предоплата не нужно
-                    <img src="./icons/heart.png" alt="" className={styles.top_image} />
+                    <img src={`${window.location.origin}/icons/heart.png`} alt="" className={styles.top_image} />
                 </p>
             </div>
             <div className={styles.centre}>
@@ -39,7 +39,7 @@ const Header = () => {
                     </div>
                 </div>
                 <div className={styles.logo_wrapper}>
-                    <img src="./icons/cake-lab.svg" alt="" />
+                    <img src={`${window.location.origin}/icons/cake-lab.svg`} alt="" />
                 </div>
                 <div className={styles.centre_right}>
                     <div className={styles.toggle_modal}>
@@ -47,7 +47,7 @@ const Header = () => {
                     </div>
                     <div className={styles.contacts_wrapper}>
                         <a href='tel:+74999554899' className={styles.contacts_left}>
-                            <img src="./icons/call.png" alt="" />
+                            <img src={`${window.location.origin}/icons/call.png`} alt="" />
                         </a>
                         <div className={styles.contacts_right}>
                             <p className={styles.contacts_title}>

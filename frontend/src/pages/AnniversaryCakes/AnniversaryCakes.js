@@ -5,7 +5,7 @@ import Section02 from '../../components/page_container/section_02'
 import { useGetPageForCategoryQuery } from '../../store/cakesApi';
 const AnniversaryCakes = () => {  //Юбилей
     const {data , isSuccess} = useGetPageForCategoryQuery('anniversary');
-    const background = `http://localhost:3000/static/media/yubiley-cake-header.56955eaf66ab4b198f38.jpeg`
+    const background = `${window.location.origin}/pages/anniversary/yubiley-cake-header.jpeg`
     const title = `Торты на Юбилей`
     const text = `Для любого торта на юбилей можно заменить цифры или поздравительную надпись. Как правило, цифры делаются из мастики или используются деревянные топперы, которые приобретаются отдельно. Часто для тортов на юбилей используется декор в виде фотопечати. Заказать торт на юбилей можно с коллажем из нескольких фотографий именинника.`
     return (

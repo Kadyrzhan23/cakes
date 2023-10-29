@@ -5,7 +5,7 @@ import Section02 from '../../components/page_container/section_02'
 import { useGetPageForCategoryQuery } from '../../store/cakesApi';
 const FestiveCakes = () => {  //Празничные
     const {data,isSuccess} = useGetPageForCategoryQuery('festive')
-    const background = `http://localhost:3000/static/media/prazd-cake.76875d6fff720e083311.jpg`
+    const background = `${window.location.origin}/pages/festive/prazd-cake.jpg`
     const title = `Праздничные торты`
     const text = ``
     return (

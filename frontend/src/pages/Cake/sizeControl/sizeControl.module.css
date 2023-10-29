@@ -1,0 +1,126 @@
+.wrapper {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    /* border: 1px solid black; */
+    /* position: relative; */
+}
+
+.tick_fortress{
+    position: relative;
+    display: flex;
+}
+
+.block_control {
+    width: 378px;
+    height: 51px;
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content: space-between;
+    /* visibility: hidden; */
+    overflow: hidden;
+}
+
+.block_control:hover{
+    cursor: pointer;
+}
+
+.sizes_btn_wrapper {
+    width: 646px;
+    display: flex;
+    column-gap: 3px;
+    position: relative;
+    transition: all 1s ease 0s;
+    position: relative;
+    /* left: -266px; */
+    /* border: 1px solid black; */
+
+}
+
+.large_btn_control {
+    width: 106px;
+    height: 50px;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* border: 1px solid black; */
+    opacity: 0.5;
+}
+
+.btn_control {
+    width: 50px;
+    height: 49px;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    flex-direction: column;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border: 1px solid black; */
+    opacity: 0.5;
+}
+
+.btn_control:hover {
+    border: 1px solid #009CE9;
+}
+
+.large_btn_control:hover {
+    border: 1px solid #009CE9;
+}
+
+.btn_control_btn {
+    width: 50px;
+    height: 49px;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 1;
+    /* border: 1px solid black; */
+}
+
+.btn_control_btn:hover{
+    cursor: pointer;
+}
+
+
+.btn_control_btn img {
+    width: 30px;
+    height: 30px;
+    /* transform: rotate(180deg); */
+    transition: all 0.2s ease 0s;
+}
+
+.large_text {
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.small_text {
+    font-size: 12px;
+}
+
+.selected_size {
+    opacity: 1;
+    border: 1px solid #009CE9;
+}
+
+.check_mark{
+    position: absolute;
+    left: -3px;
+    top: -5px;
+    width: 15px;
+    height: 15px;
+    z-index: 3;
+}
+
+.check_mark_wrapper{
+    position: relative;
+}

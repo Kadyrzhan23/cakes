@@ -5,7 +5,7 @@ import Section01 from '../../components/page_header/section_01'
 import Section02 from '../../components/page_container/section_02'
 import { useGetPageForCategoryQuery } from '../../store/cakesApi';
 const Corporatecakes = () => {
-    const background = `http://localhost:3000/static/media/corp-cake.3eaa924ab934c51e7701.jpg`
+    const background = `${window.location.origin}/pages/corporate/corp-cake.jpg`
     const title = `Корпоративные торты`
     const { data, isSuccess } = useGetPageForCategoryQuery('corporate')
     useEffect(() => {

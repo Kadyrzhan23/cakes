@@ -35,21 +35,22 @@ const Section02 = ({ data, isSuccess }) => {
             <div className={styles.card_wrapper}>
                 {/* {
                     data.length > 0 ? <> */}
-                        {
-                            isSuccess ? res.map((item, index) => {
-                                return (
-                                    <Card
-                                        title={item.title}
-                                        price={item.price}
-                                        id={item.id}
-                                        img={item.img}
-                                        key={index}
-                                        dirName={item.dirName}
-                                    />
-                                )
-                            }) : <h2>Loading...</h2>
-                        }
-                    {/* </> : <h2>Выберите несколько тортов</h2>
+                {
+                    isSuccess ? res.map((item, index) => {
+                        return (
+                            <Card
+                                tier={item.tier}
+                                title={item.title}
+                                price={item.price}
+                                id={item.id}
+                                img={item.img}
+                                key={index}
+                                dirName={item.dirName}
+                            />
+                        )
+                    }) : <h2>Loading...</h2>
+                }
+                {/* </> : <h2>Выберите несколько тортов</h2>
                 } */}
             </div>
             <PopupFormEditCard data={data} />

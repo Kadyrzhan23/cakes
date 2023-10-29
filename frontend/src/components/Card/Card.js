@@ -4,7 +4,7 @@ import { useState } from 'react'
 import { useDispatch, useSelector } from 'react-redux'
 import { addToFavorite, deleteFromFavorite, editDirName, popupPositionTopEdit, editSelectedCardId } from '../../store/favoriteSlice'
 import { useNavigate } from 'react-router-dom'
-export default function Card({ title, price, img, id, dirName }) {
+export default function Card({ title, price, img, id, dirName ,tier}) {
     const dirname = useSelector((state) => state.favorites.dirName)
     const selectedId = useSelector((state) => state.favorites.selectedCardId)
     const [styleBool, setStylesBool] = useState(false)
@@ -16,7 +16,7 @@ export default function Card({ title, price, img, id, dirName }) {
     const navigate = useNavigate()
     function transition (e){
         if(e.target.id !== 'dont'){
-            navigate(`/cake/${id}`,{state:{ title, price, img, id, dirName }})
+            navigate(`/cake/${id}`,{state:{ title, price, img, id, dirName ,tier}})
         }
     }
     function popupToggle(e) {
